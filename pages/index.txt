@@ -1,0 +1,25 @@
+.. title: index
+.. slug: index
+.. date: 2013/03/06 16:48:34
+.. tags: 
+.. link: 
+.. description: Fake Site version 1, welcome page!
+
+
+.. class:: hero-unit span6
+
+.. admonition:: This is a Fake Site
+
+   It pretends to be about things, but is really just an example.
+   So, don't click this button,it leads nowhere.
+
+   .. class:: btn
+
+   Click Me!
+
+
+.. class:: span5
+
+Lorem ipsum foo bar baz
+
+[etc.]

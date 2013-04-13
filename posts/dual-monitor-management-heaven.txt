@@ -1,0 +1,62 @@
+.. title: dual monitor management heaven
+.. slug: dual-monitor-management-heaven
+.. date: 2011/05/24 17:29:15
+.. tags: 
+.. link: 
+.. description: 
+
+
+For some time now I have been struggling to find a non-brain-dead way of
+managing my dual-monitor setup.
+
+>I have a laptop and an external monitor, and while it's fairly easy to
+configure X to extend the virtual desktop across both (using the
+nvidia-settings tool, as the proprietary drivers don't cope well with the
+standard monitor management tool in Ubuntu), it was always a hassle when you
+need to disconnect your laptop and move away from your desktop; most of your
+windows would remain hidden from view in the "other" monitor, and you had to
+resort to hacky ways of letting X know: "I now have just 1 monitor so please
+adjust my settings".
+
+Today I found a very nice tool that handles this problem very well:
+autorandr, you just made it to the list of my favorite tools.
+
+autorandr lets you save a given screen configuration into a profile which can
+be enabled/disabled on demand. It uses disper or xrandr underneath to do the
+dirty work of configuring your monitors/screens.
+
+What I did was basically::
+
+    1. Configure my screens as I have them usually at home (external monitor
+       is primary screen + laptop extends to the right)
+
+    disper -d CRT-0,DFP-0 -r 1680x1050,1440x900 -e -t right
+
+    2. Save that configuration as a profile called "dual"
+
+    auto-disper --save dual
+
+    3. Configure my screens so that the laptop is the only available monitor
+
+    disper -d DFP-0 -r 1440x900 -s
+
+    4. Save that configuration as a profile called "laptop" (I disconnected
+       my external monitor to make sure the tool only sees the laptop monitor)
+
+    auto-disper --save laptop
+
+    5. Bound the "auto-disper --change" command to a key so that when I
+       unplug the external monitor I can just run that and auto-disper will
+       adjust the screen configuration to match the the hardware profile.
+
+Now, whenever I plug the external monitor in or out I can just hit that key
+combination and my screens will get correctly configured!
+
+Easy! :)
+
+What I'd like to figure out next is how to have the tool automatically detect
+such events (external monitor plug in/out) and run the auto-disper command
+automatically.
+
+.. _autorandr: https://github.com/wertarbyte/autorandr
+.. _disper: http://willem.engen.nl/projects/disper

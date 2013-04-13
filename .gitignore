@@ -1,0 +1,6 @@
+*.py[co]
+
+# nikola
+cache
+output
+.doit*

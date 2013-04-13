@@ -1,0 +1,25 @@
+.. title: starting with luciano
+.. slug: starting-with-luciano
+.. date: 2009/09/28 15:54:19
+.. tags: 
+.. link: 
+.. description: 
+
+
+Luciano is the latest addition to my collection of ongoing proyects.
+The idea behind it is to have a tutor for enhancing your singing
+skills.
+
+My goal with luciano is to make it capture input from a microphone,
+analyze the voice audio, and map it to midi-like notes, so that it can
+display the notes you are singing.
+In addition to this, luciano will follow a score (for example a midi
+file), and match the notes recognized in the raw audio input to the
+notes that should have been sung.
+
+In that way, the singer will have a visual feedback to the way he/she
+is singing. For example, he/she may see if the note he/she just sang
+was correct or if it was out of pitch.
+
+The general idea is that by having the computer mark the errors, it
+will make it easier for the singer to learn a particular score.
