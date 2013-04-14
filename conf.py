@@ -226,6 +226,7 @@ post_compilers = {
 
 # Name of the theme to use. Themes are located in themes/theme_name
 # THEME = 'site'
+THEME = 'spacelab'
 
 # If you use 'site-reveal' theme you can select several subthemes
 # THEME_REVEAL_CONGIF_SUBTHEME = 'sky' # You can also use: beige/serif/simple/night/default
