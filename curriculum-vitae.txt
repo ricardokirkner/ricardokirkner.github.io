@@ -6,24 +6,42 @@
 .. description: 
 
 
-General information
-===================
+Profile
+=======
 
-Age: 34
-Nationalities: Argentinian, German
-Email: ricardo@kirkner.com.ar
-Webpage: www.kirkner.com.ar
-LinkedIn Profile: www.linekdin.com/in/ricardokirkner
+Ricardo Kirkner
+Software Engineer & Technical Manager, Machine Learning Enthusiast
 
-Education
-=========
+Name
+Ricardo Kirkner
 
-1998-2007   MSc in Computer Science, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
-1997        Deutsches Abitur - German High School, Goethe Schule Buenos Aires, Buenos Aires, Argentina
-1991-1996   Bachillerato Nacional Bilingüe en Ciencias y Humanidades con Orientación Científica - High School, Goethe Schule Buenos Aires, Buenos Aires, Argentina
+Phone
++54 911 3336 7592
 
-Work Experience
-===============
+Email
+ricardo@kirkner.com.ar
+
+Website
+www.kirkner.com.ar
+
+Contact
+=======
+
+Twitter
+@ricardokirkner
+
+Github
+github.com/ricardokirkner
+
+LinkedIn Profile
+www.linekdin.com/in/ricardokirkner
+
+
+Resume
+======
+
+Employement
+-----------
 
 January 2009 - present
 ----------------------
@@ -72,18 +90,27 @@ June 2000 - December 2000
 
 Web Developer (PHP), Nexitel
 
+
+Education
+---------
+
+1998-2007   MSc in Computer Science, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+1997        Deutsches Abitur - German High School, Goethe Schule Buenos Aires, Buenos Aires, Argentina
+1991-1996   Bachillerato Nacional Bilingüe en Ciencias y Humanidades con Orientación Científica - High School, Goethe Schule Buenos Aires, Buenos Aires, Argentina
+
 Languages
 =========
 
 Spanish     Native
+
 German      Native
-English     Advanced
-
-Language Certificates
----------------------
-
 1996    Deutsches Sprachdiplom Zweite Stufe, Kultusministerkonferez (German State) by means of Goethe Schule Buenos Aires, Buenos Aires, Argentina
+
+English     Advanced
 1995    Certificate of Proficiency in English, The University of Michigan, MI, USA
+
+Skills
+------
 
 Operating Systems
 =================
