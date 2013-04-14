@@ -32,8 +32,8 @@ Education: MSC. in Computer Science
 Curriculum Vitae
 ----------------
 
-- `Software Engineering <http://www.mediafire.com/download.php?zxzmmtnzhk>`_
-- `Machine Learning <http://www.mediafire.com/download.php?jqyhlymwjbn>`_
+- `Software Engineering <cv-web.pdf>`_
+- `Machine Learning <cv-ml-en.pdf>`_
 
 .. raw:: html
 
