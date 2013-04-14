@@ -9,5 +9,5 @@
 publications
 ============
 
-- `Reinforcement Learning on Self-reconfigurable Modular Robots <http://www.mediafire.com/download.php?42jtgdxsojm>`_, Master Thesis, Departamento de Computación, FCEyN, UBA. March 2007.
+- `Reinforcement Learning on Self-reconfigurable Modular Robots <ReinforcementLearningOnSelfReconfigurableModularRobots.pdf>`_, Master Thesis, Departamento de Computación, FCEyN, UBA. March 2007.
 
