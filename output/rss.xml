@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>dígame licenciado</title><link>http://www.kirkner.com.ar</link><description>in delirio dixit</description><lastBuildDate>Sat, 13 Apr 2013 17:53:59 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>configglue 0.11 released</title><link>http://www.kirkner.com.ar/blog/configglue-011-released.html</link><description>&lt;p&gt;This release (0.11) brings configglue another step closer to the much
+<rss version="2.0"><channel><title>dígame licenciado</title><link>http://www.kirkner.com.ar</link><description>in delirio dixit</description><lastBuildDate>Sun, 14 Apr 2013 15:06:39 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>configglue 0.11 released</title><link>http://www.kirkner.com.ar/blog/configglue-011-released.html</link><description>&lt;p&gt;This release (0.11) brings configglue another step closer to the much
 awaited 1.0 milestone. It includes two incredible features:&lt;/p&gt;
 &lt;div class="section" id="environment-variables-support"&gt;
 &lt;h2&gt;Environment variables support&lt;/h2&gt;
