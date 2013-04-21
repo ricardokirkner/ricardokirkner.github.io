@@ -1,13 +1,10 @@
-.. title: about
-.. slug: about
+.. title: welcome
+.. slug: 
 .. date: 2013/03/19 17:54:23
 .. tags: 
 .. link: 
 .. description: 
 
-
-welcome
-=======
 
 Hello, my name is Ricardo Kirkner, and this is my personal website.
 
@@ -15,39 +12,7 @@ Hello, my name is Ricardo Kirkner, and this is my personal website.
 what sort of things you can expect to find in this website
 ----------------------------------------------------------
 
-- `Who </about.html>`_ is this Ricardo Kirkner person anyway?
-- What are his `research </academic.html>`_ interests?
-- What type of `software </software.html>`_ does he work on?
-
-
-about me
---------
-
-Name: Ricardo Kirkner
-Nationality: Argentinian
-Age: 34
-Education: MSC. in Computer Science
-
-
-Curriculum Vitae
-----------------
-
-- `Software Engineering <cv-web.pdf>`_
-- `Machine Learning <cv-ml-en.pdf>`_
-
-.. raw:: html
-
-    <style>
-    ul.icons {
-        list-style-type: none;
-        margin-left: 2em;
-        text-indent: -0.8em;
-        line-height: 25px;
-    }
-    </style>
-    <ul class="icons">
-      <li><i class="icon-twitter"></i> Twitter: <a href="http://twitter.com/ricardokirkner">@ricardokirkner</a></li>
-      <li><i class="icon-github"></i> Github: <a href="http://github.com/ricardokirkner">ricardokirkner</a></li>
-      <li><i class="icon-linkedin"></i> LinkedIn: <a href="http://www.linkedin.com/in/ricardokirkner">my profile</a></li>
-    </ul>
+- `Who <resume.html>`_ is this Ricardo Kirkner person anyway?
+- What are his `research <resume.html#research>`_ interests?
+- What type of `software <resume.html#projects>`_ does he work on?
 
