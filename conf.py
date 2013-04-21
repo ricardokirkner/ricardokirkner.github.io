@@ -57,6 +57,7 @@ SIDEBAR_LINKS = {
     DEFAULT_LANG: (
         ('/about.html', '<i class="icon-user"></i> about me'),
         ('/resume.html', '<i class="icon-file"></i> résumé'),
+        ('/', '<i class="icon-book"></i> blog'),
         ('/attic.html', '<i class="icon-globe"></i> attic'),
         ('/archive.html', '<i class="icon-calendar"></i> archives'),
         #('/categories/index.html', '<i class="icon-tags"></i> tags'),
