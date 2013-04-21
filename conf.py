@@ -56,12 +56,10 @@ TRANSLATIONS = {
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
         ('/about.html', '<i class="icon-user"></i> about me'),
-        ('/academic.html', '<i class="icon-book"></i> academic'),
-        ('/software.html', '<i class="icon-download"></i> software'),
-#        ('/pages/ramblings.html', 'ramblings'),
-        ('/attic.html', '<i class="icon-road"></i> attic'),
+        ('/resume.html', '<i class="icon-file"></i> résumé'),
+        ('/attic.html', '<i class="icon-globe"></i> attic'),
         ('/archive.html', '<i class="icon-calendar"></i> archives'),
-        ('/categories/index.html', '<i class="icon-tags"></i> tags'),
+        #('/categories/index.html', '<i class="icon-tags"></i> tags'),
     ),
 }
 
@@ -270,6 +268,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # If you want to disable comments, set it to False.
 # Default is "nikolademo", used by the demo sites
 # DISQUS_FORUM = "nikolademo"
+DISQUS_FORUM = "indeliriodixit"
 
 # Create index.html for story folders?
 # STORY_INDEX = False
