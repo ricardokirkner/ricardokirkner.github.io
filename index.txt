@@ -1,0 +1,18 @@
+.. title: welcome
+.. slug: 
+.. date: 2013/03/19 17:54:23
+.. tags: 
+.. link: 
+.. description: 
+
+
+Hello, my name is Ricardo Kirkner, and this is my personal website.
+
+
+what sort of things you can expect to find in this website
+----------------------------------------------------------
+
+- `Who <resume.html>`_ is this Ricardo Kirkner person anyway?
+- What are his `research <resume.html#research>`_ interests?
+- What type of `software <resume.html#projects>`_ does he work on?
+
