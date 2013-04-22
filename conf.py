@@ -55,9 +55,8 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
-        ('/about.html', '<i class="icon-user"></i> about me'),
-        ('/resume.html', '<i class="icon-file"></i> résumé'),
-        ('/', '<i class="icon-book"></i> blog'),
+        ('/resume.html', '<i class="icon-user"></i> résumé'),
+        ('/blog/', '<i class="icon-book"></i> blog'),
         ('/attic.html', '<i class="icon-globe"></i> attic'),
         ('/archive.html', '<i class="icon-calendar"></i> archives'),
         #('/categories/index.html', '<i class="icon-tags"></i> tags'),
@@ -139,6 +138,7 @@ post_compilers = {
 
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # INDEX_PATH = "blog"
+INDEX_PATH = "blog"
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
