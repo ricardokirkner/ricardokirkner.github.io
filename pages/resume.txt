@@ -32,7 +32,6 @@ employment
 ---------------
 
 .. role:: date
-    :alignment: TA_RIGHT
 
 Canonical Ltd., Online Services - Accounts & Payments Technical Leader. :date:`2013...`
     * Lead and helped implementing new APIs for Ubuntu SSO based on REST principles. APIs are fully compliant with RMM Level 2 and partially with RMM Level 3.
