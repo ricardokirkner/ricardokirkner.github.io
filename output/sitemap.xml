@@ -65,12 +65,47 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://www.kirkner.com.ar/attic.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://www.kirkner.com.ar/blog/</loc>
   <lastmod>2013-04-28</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://www.kirkner.com.ar/blog/configglue-011-released.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/blog/dual-monitor-management-heaven.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/blog/experimenting-with-lalita.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/blog/experimenting-with-live-voice-and-aubionotes.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/blog/experimenting-with-pitch-detection.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://www.kirkner.com.ar/blog/index.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/blog/starting-with-luciano.html</loc>
   <lastmod>2013-04-28</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -81,6 +116,16 @@
  </url>
  <url>
   <loc>http://www.kirkner.com.ar/categories/index.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/index.html</loc>
+  <lastmod>2013-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.kirkner.com.ar/resume.html</loc>
   <lastmod>2013-04-28</lastmod>
   <priority>0.5000</priority>
  </url>
