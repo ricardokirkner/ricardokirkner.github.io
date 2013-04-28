@@ -1,0 +1,27 @@
+
+  # List any fonts you would like to embed in the PDF here
+  embeddedFonts: []
+
+  styles:
+    myname:
+      parent: title
+      alignment: TA_LEFT
+      spaceAfter: 4
+
+    tagline:
+      parent: title-reference
+
+    shortcontact:
+      parent: right
+      spaceBefore: 8
+      spaceAfter: 16
+
+    summary:
+      parent: sidebar
+
+    bullet-list:
+      parent: bodytext
+      spaceAfter: 16
+
+    date:
+      parent: title-reference
