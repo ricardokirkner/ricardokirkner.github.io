@@ -1,6 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta charset="utf-8"><meta name="description" content="in delirio dixit"><meta name="author" content="Ricardo Kirkner"><title>dígame licenciado | dígame licenciado</title><link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="../assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"><link href="../assets/css/rst.css" rel="stylesheet" type="text/css"><link href="../assets/css/code.css" rel="stylesheet" type="text/css"><link href="../assets/css/colorbox.css" rel="stylesheet" type="text/css"><link href="../assets/css/theme.css" rel="stylesheet" type="text/css"><!--[if lt IE 9]>
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta charset="utf-8">
+    <meta name="description" content="in delirio dixit">
+    <meta name="author" content="Ricardo Kirkner">
+    <title>dígame licenciado | dígame licenciado</title>
+    
+            <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+            <link href="../assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+        <link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+        <link href="../assets/css/colorbox.css" rel="stylesheet" type="text/css">
+        <link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml"></head><body>
+    <![endif]-->
+            <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+
+    
+    
+    
+</head>
+<body>
 <!-- Menubar -->
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
@@ -18,12 +40,20 @@
             </a>
             <!-- Everything you want hidden at 940px or less, place within here -->
             <div class="nav-collapse collapse">
-                <ul class="nav"><li><a href="../resume.html"><i class="icon-user"></i> résumé</a>
+                <ul class="nav">
+                    
+            <li><a href="../resume.html"><i class="icon-user"></i> résumé</a>
             </li><li><a href="."><i class="icon-book"></i> blog</a>
             </li><li><a href="../attic.html"><i class="icon-globe"></i> attic</a>
             </li><li><a href="../archive.html"><i class="icon-calendar"></i> archives</a>
 
-                </li></ul><ul class="nav pull-right"></ul></div>
+                </li></ul>
+                <ul class="nav pull-right">
+                
+                
+                 
+                </ul>
+            </div>
         </div>
     </div>
 </div>
@@ -37,8 +67,10 @@
         <div class="postbox">
         <h1><a href="configglue-011-released.html">configglue 0.11 released</a>
         <small>  
-             Posted: <time class="published" datetime="2011-06-23T18:21:49">2011-06-23 18:21</time></small></h1>
-        <hr><p>This release (0.11) brings configglue another step closer to the much
+             Posted: <time class="published" datetime="2011-06-23T18:21:49">2011-06-23 18:21</time>
+        </small></h1>
+        <hr>
+        <p>This release (0.11) brings configglue another step closer to the much
 awaited 1.0 milestone. It includes two incredible features:</p>
 <div class="section" id="environment-variables-support">
 <h2>Environment variables support</h2>
@@ -49,11 +81,13 @@ awaited 1.0 milestone. It includes two incredible features:</p>
 be used to override the configuration value for option <strong>foo</strong> in section
 <strong>bar</strong>, according to the following precedence rules</p>
 <blockquote>
-<ol class="arabic simple"><li>Explicitly defined via command-line (i.e, --section_option=value)</li>
+<ol class="arabic simple">
+<li>Explicitly defined via command-line (i.e, --section_option=value)</li>
 <li>Implicitly defined via environment variable (i.e, CONFIGGLUE_SECTION_OPTION)</li>
 <li>Explicitly defined via configuration files</li>
 <li>Implicitly defined via schema defaults</li>
-</ol></blockquote>
+</ol>
+</blockquote>
 </div>
 <div class="section" id="as-placeholders-in-configuration-files">
 <h3>As placeholders in configuration files</h3>
@@ -91,19 +125,24 @@ for configuration values:</p>
 </pre>
 <p>Plugins need to be registered with the manually for the time being. For doing
 so, just call <strong>App.plugins.register</strong>, like</p>
-<dl class="docutils"><dt>::</dt>
-<dd><dl class="first docutils"><dt>class FooSchema(Schema):</dt>
+<dl class="docutils">
+<dt>::</dt>
+<dd><dl class="first docutils">
+<dt>class FooSchema(Schema):</dt>
 <dd>bar = IntOption()</dd>
 <dt>class Foo(Plugin):</dt>
 <dd>enabled = True
 schema = FooSchema</dd>
-</dl><p class="last">myapp = App(name='myapp')
+</dl>
+<p class="last">myapp = App(name='myapp')
 myapp.plugins.register(Foo)&lt;/pre&gt;&lt;/div&gt;</p>
 </dd>
-</dl><p>This example will register a <strong>Foo</strong> plugin which will be enabled by default.</p>
+</dl>
+<p>This example will register a <strong>Foo</strong> plugin which will be enabled by default.</p>
 <p>Plugins can be enabled/disabled on demand, by calling the respective method,
 like</p>
-<dl class="docutils"><dt>::</dt>
+<dl class="docutils">
+<dt>::</dt>
 <dd><p class="first">myapp.plugins.enable(Foo)
 print myapp.plugins.enabled
 [&lt;class 'Foo'&gt;]</p>
@@ -111,11 +150,14 @@ print myapp.plugins.enabled
 print myapp.plugins.enabled
 []</p>
 </dd>
-</dl><p>The list of available plugins can be retrieved like</p>
-<dl class="docutils"><dt>::</dt>
+</dl>
+<p>The list of available plugins can be retrieved like</p>
+<dl class="docutils">
+<dt>::</dt>
 <dd>print myapp.plugins.available
 [&lt;class 'Foo'&gt;]</dd>
-</dl></div>
+</dl>
+</div>
 </div>
 <div class="section" id="closing-remarks">
 <h2>Closing remarks</h2>
@@ -133,8 +175,10 @@ using it!</p>
         <div class="postbox">
         <h1><a href="dual-monitor-management-heaven.html">dual monitor management heaven</a>
         <small>  
-             Posted: <time class="published" datetime="2011-05-24T17:29:15">2011-05-24 17:29</time></small></h1>
-        <hr><p>For some time now I have been struggling to find a non-brain-dead way of
+             Posted: <time class="published" datetime="2011-05-24T17:29:15">2011-05-24 17:29</time>
+        </small></h1>
+        <hr>
+        <p>For some time now I have been struggling to find a non-brain-dead way of
 managing my dual-monitor setup.</p>
 <p>&gt;I have a laptop and an external monitor, and while it's fairly easy to
 configure X to extend the virtual desktop across both (using the
@@ -187,8 +231,10 @@ automatically.</p>
         <div class="postbox">
         <h1><a href="experimenting-with-lalita.html">experimenting with lalita</a>
         <small>  
-             Posted: <time class="published" datetime="2009-10-29T17:18:26">2009-10-29 17:18</time></small></h1>
-        <hr><p>I decided to play around a bit with lalita. Lalita is an irc bot
+             Posted: <time class="published" datetime="2009-10-29T17:18:26">2009-10-29 17:18</time>
+        </small></h1>
+        <hr>
+        <p>I decided to play around a bit with lalita. Lalita is an irc bot
 developed by some members of the PyAr - Python Argentina community.
 What I wanted to achieve is to have some way to be notified when there
 is something interesting going on in the irc channel, without having to
@@ -228,8 +274,10 @@ conversation might be of interest.</p>
         <div class="postbox">
         <h1><a href="experimenting-with-live-voice-and-aubionotes.html">experimenting with live voice and aubionotes</a>
         <small>  
-             Posted: <time class="published" datetime="2009-09-28T17:04:25">2009-09-28 17:04</time></small></h1>
-        <hr><p>Clearly, the aubionotes default pitch detector is quite sensitive when
+             Posted: <time class="published" datetime="2009-09-28T17:04:25">2009-09-28 17:04</time>
+        </small></h1>
+        <hr>
+        <p>Clearly, the aubionotes default pitch detector is quite sensitive when
 analyzing vocal audio. It throws in a lot of in-between notes, which makes
 the resulting midi output a bit "tremolous".</p>
 <p>I think now is the time to read more about the different pitch detection
@@ -245,8 +293,10 @@ own pitch detection algorithm.</p>
         <div class="postbox">
         <h1><a href="experimenting-with-pitch-detection.html">experimenting with pitch detection</a>
         <small>  
-             Posted: <time class="published" datetime="2009-09-28T16:19:08">2009-09-28 16:19</time></small></h1>
-        <hr><p>Last weekend I found about the aubio project. In their own words:</p>
+             Posted: <time class="published" datetime="2009-09-28T16:19:08">2009-09-28 16:19</time>
+        </small></h1>
+        <hr>
+        <p>Last weekend I found about the aubio project. In their own words:</p>
 <blockquote>
 aubio is a library for audio labelling. Its features include
 segmenting a sound file before each of its attacks, performing pitch
@@ -286,8 +336,10 @@ to capture live audio, so I don't have to pre-record it.</p>
         <div class="postbox">
         <h1><a href="starting-with-luciano.html">starting with luciano</a>
         <small>  
-             Posted: <time class="published" datetime="2009-09-28T15:54:19">2009-09-28 15:54</time></small></h1>
-        <hr><p>Luciano is the latest addition to my collection of ongoing proyects.
+             Posted: <time class="published" datetime="2009-09-28T15:54:19">2009-09-28 15:54</time>
+        </small></h1>
+        <hr>
+        <p>Luciano is the latest addition to my collection of ongoing proyects.
 The idea behind it is to have a tutor for enhancing your singing
 skills.</p>
 <p>My goal with luciano is to make it capture input from a microphone,
@@ -308,10 +360,17 @@ will make it easier for the singer to learn a particular score.</p>
         </p></div>
     
 <div>
-<ul class="pager"></ul></div>
+<ul class="pager">
+</ul>
+</div>
 
     
-       <script type="text/javascript">var disqus_shortname="indeliriodixit";(function(){var a=document.createElement("script");a.async=true;a.type="text/javascript";a.src="http://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(a)}());</script></div>
+       <script type="text/javascript">var disqus_shortname="indeliriodixit";(function(){var a=document.createElement("script");a.async=true;a.type="text/javascript";a.src="http://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(a)}());</script>
+
+    
+
+
+    </div>
     </div>
     <!--End of body content-->
 </div>
@@ -321,4 +380,11 @@ will make it easier for the singer to learn a particular score.</p>
 
 
 
-            <script src="../assets/js/jquery-1.7.2.min.js" type="text/javascript"></script><script src="../assets/js/bootstrap.min.js" type="text/javascript"></script><script src="../assets/js/jquery.colorbox-min.js" type="text/javascript"></script><script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script></body></html>
+            <script src="../assets/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+            <script src="../assets/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="../assets/js/jquery.colorbox-min.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script>
+</body>
+</html>

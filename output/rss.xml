@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>dígame licenciado</title><link>http://www.kirkner.com.ar</link><description>in delirio dixit</description><lastBuildDate>Sun, 14 Apr 2013 15:06:39 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>configglue 0.11 released</title><link>http://www.kirkner.com.ar/blog/configglue-011-released.html</link><description>&lt;p&gt;This release (0.11) brings configglue another step closer to the much
+<rss version="2.0"><channel><title>dígame licenciado</title><link>http://www.kirkner.com.ar</link><description>in delirio dixit</description><lastBuildDate>Sun, 28 Apr 2013 20:19:41 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>configglue 0.11 released</title><link>http://www.kirkner.com.ar/blog/configglue-011-released.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This release (0.11) brings configglue another step closer to the much
 awaited 1.0 milestone. It includes two incredible features:&lt;/p&gt;
 &lt;div class="section" id="environment-variables-support"&gt;
 &lt;h2&gt;Environment variables support&lt;/h2&gt;
@@ -10,11 +10,13 @@ awaited 1.0 milestone. It includes two incredible features:&lt;/p&gt;
 be used to override the configuration value for option &lt;strong&gt;foo&lt;/strong&gt; in section
 &lt;strong&gt;bar&lt;/strong&gt;, according to the following precedence rules&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;ol class="arabic simple"&gt;&lt;li&gt;Explicitly defined via command-line (i.e, --section_option=value)&lt;/li&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Explicitly defined via command-line (i.e, --section_option=value)&lt;/li&gt;
 &lt;li&gt;Implicitly defined via environment variable (i.e, CONFIGGLUE_SECTION_OPTION)&lt;/li&gt;
 &lt;li&gt;Explicitly defined via configuration files&lt;/li&gt;
 &lt;li&gt;Implicitly defined via schema defaults&lt;/li&gt;
-&lt;/ol&gt;&lt;/blockquote&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class="section" id="as-placeholders-in-configuration-files"&gt;
 &lt;h3&gt;As placeholders in configuration files&lt;/h3&gt;
@@ -52,19 +54,24 @@ for configuration values:&lt;/p&gt;
 &lt;/pre&gt;
 &lt;p&gt;Plugins need to be registered with the manually for the time being. For doing
 so, just call &lt;strong&gt;App.plugins.register&lt;/strong&gt;, like&lt;/p&gt;
-&lt;dl class="docutils"&gt;&lt;dt&gt;::&lt;/dt&gt;
-&lt;dd&gt;&lt;dl class="first docutils"&gt;&lt;dt&gt;class FooSchema(Schema):&lt;/dt&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;::&lt;/dt&gt;
+&lt;dd&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;class FooSchema(Schema):&lt;/dt&gt;
 &lt;dd&gt;bar = IntOption()&lt;/dd&gt;
 &lt;dt&gt;class Foo(Plugin):&lt;/dt&gt;
 &lt;dd&gt;enabled = True
 schema = FooSchema&lt;/dd&gt;
-&lt;/dl&gt;&lt;p class="last"&gt;myapp = App(name='myapp')
+&lt;/dl&gt;
+&lt;p class="last"&gt;myapp = App(name='myapp')
 myapp.plugins.register(Foo)&amp;lt;/pre&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 &lt;/dd&gt;
-&lt;/dl&gt;&lt;p&gt;This example will register a &lt;strong&gt;Foo&lt;/strong&gt; plugin which will be enabled by default.&lt;/p&gt;
+&lt;/dl&gt;
+&lt;p&gt;This example will register a &lt;strong&gt;Foo&lt;/strong&gt; plugin which will be enabled by default.&lt;/p&gt;
 &lt;p&gt;Plugins can be enabled/disabled on demand, by calling the respective method,
 like&lt;/p&gt;
-&lt;dl class="docutils"&gt;&lt;dt&gt;::&lt;/dt&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;::&lt;/dt&gt;
 &lt;dd&gt;&lt;p class="first"&gt;myapp.plugins.enable(Foo)
 print myapp.plugins.enabled
 [&amp;lt;class 'Foo'&amp;gt;]&lt;/p&gt;
@@ -72,11 +79,14 @@ print myapp.plugins.enabled
 print myapp.plugins.enabled
 []&lt;/p&gt;
 &lt;/dd&gt;
-&lt;/dl&gt;&lt;p&gt;The list of available plugins can be retrieved like&lt;/p&gt;
-&lt;dl class="docutils"&gt;&lt;dt&gt;::&lt;/dt&gt;
+&lt;/dl&gt;
+&lt;p&gt;The list of available plugins can be retrieved like&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;::&lt;/dt&gt;
 &lt;dd&gt;print myapp.plugins.available
 [&amp;lt;class 'Foo'&amp;gt;]&lt;/dd&gt;
-&lt;/dl&gt;&lt;/div&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="closing-remarks"&gt;
 &lt;h2&gt;Closing remarks&lt;/h2&gt;
@@ -85,7 +95,7 @@ introduction will raise your interest enough to check out the code and start
 using it!&lt;/p&gt;
 &lt;p&gt;Questions will as usual always be answered on #configglue (on freenode).&lt;/p&gt;
 &lt;p&gt;Happy hacking!&lt;/p&gt;
-&lt;/div&gt;</description><guid>http://www.kirkner.com.ar/blog/configglue-011-released.html</guid><pubDate>Thu, 23 Jun 2011 18:21:49 GMT</pubDate></item><item><title>dual monitor management heaven</title><link>http://www.kirkner.com.ar/blog/dual-monitor-management-heaven.html</link><description>&lt;p&gt;For some time now I have been struggling to find a non-brain-dead way of
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/configglue-011-released.html</guid><pubDate>Thu, 23 Jun 2011 18:21:49 GMT</pubDate></item><item><title>dual monitor management heaven</title><link>http://www.kirkner.com.ar/blog/dual-monitor-management-heaven.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;For some time now I have been struggling to find a non-brain-dead way of
 managing my dual-monitor setup.&lt;/p&gt;
 &lt;p&gt;&amp;gt;I have a laptop and an external monitor, and while it's fairly easy to
 configure X to extend the virtual desktop across both (using the
@@ -129,7 +139,7 @@ combination and my screens will get correctly configured!&lt;/p&gt;
 &lt;p&gt;Easy! :)&lt;/p&gt;
 &lt;p&gt;What I'd like to figure out next is how to have the tool automatically detect
 such events (external monitor plug in/out) and run the auto-disper command
-automatically.&lt;/p&gt;</description><guid>http://www.kirkner.com.ar/blog/dual-monitor-management-heaven.html</guid><pubDate>Tue, 24 May 2011 17:29:15 GMT</pubDate></item><item><title>experimenting with lalita</title><link>http://www.kirkner.com.ar/blog/experimenting-with-lalita.html</link><description>&lt;p&gt;I decided to play around a bit with lalita. Lalita is an irc bot
+automatically.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/dual-monitor-management-heaven.html</guid><pubDate>Tue, 24 May 2011 17:29:15 GMT</pubDate></item><item><title>experimenting with lalita</title><link>http://www.kirkner.com.ar/blog/experimenting-with-lalita.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;I decided to play around a bit with lalita. Lalita is an irc bot
 developed by some members of the PyAr - Python Argentina community.
 What I wanted to achieve is to have some way to be notified when there
 is something interesting going on in the irc channel, without having to
@@ -160,14 +170,14 @@ conversation might be of interest.&lt;/p&gt;
 - fine tuning the "conversation" definition
 - scanning for keywords, to make interests also dependent on the actual content of the conversation
 - tracking interest relationships
-&lt;/pre&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-lalita.html</guid><pubDate>Thu, 29 Oct 2009 17:18:26 GMT</pubDate></item><item><title>experimenting with live voice and aubionotes</title><link>http://www.kirkner.com.ar/blog/experimenting-with-live-voice-and-aubionotes.html</link><description>&lt;p&gt;Clearly, the aubionotes default pitch detector is quite sensitive when
+&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-lalita.html</guid><pubDate>Thu, 29 Oct 2009 17:18:26 GMT</pubDate></item><item><title>experimenting with live voice and aubionotes</title><link>http://www.kirkner.com.ar/blog/experimenting-with-live-voice-and-aubionotes.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Clearly, the aubionotes default pitch detector is quite sensitive when
 analyzing vocal audio. It throws in a lot of in-between notes, which makes
 the resulting midi output a bit "tremolous".&lt;/p&gt;
 &lt;p&gt;I think now is the time to read more about the different pitch detection
 functions, and/or other filters to try to make the pitch detection algorithm
 less sensitive to small pitch variations, or else maybe even implementing my
 own pitch detection algorithm.&lt;/p&gt;
-&lt;p&gt;So far it has been a lot of fun!&lt;/p&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-live-voice-and-aubionotes.html</guid><pubDate>Mon, 28 Sep 2009 17:04:25 GMT</pubDate></item><item><title>experimenting with pitch detection</title><link>http://www.kirkner.com.ar/blog/experimenting-with-pitch-detection.html</link><description>&lt;p&gt;Last weekend I found about the aubio project. In their own words:&lt;/p&gt;
+&lt;p&gt;So far it has been a lot of fun!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-live-voice-and-aubionotes.html</guid><pubDate>Mon, 28 Sep 2009 17:04:25 GMT</pubDate></item><item><title>experimenting with pitch detection</title><link>http://www.kirkner.com.ar/blog/experimenting-with-pitch-detection.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Last weekend I found about the aubio project. In their own words:&lt;/p&gt;
 &lt;blockquote&gt;
 aubio is a library for audio labelling. Its features include
 segmenting a sound file before each of its attacks, performing pitch
@@ -198,7 +208,7 @@ the keyboard.&lt;/p&gt;
 &lt;p&gt;Considering all the processing involved in order to convert voice to
 midi notes, I call this first experiment a success.&lt;/p&gt;
 &lt;p&gt;Now I have to figure out how to make jack use my microphone directly
-to capture live audio, so I don't have to pre-record it.&lt;/p&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-pitch-detection.html</guid><pubDate>Mon, 28 Sep 2009 16:19:08 GMT</pubDate></item><item><title>starting with luciano</title><link>http://www.kirkner.com.ar/blog/starting-with-luciano.html</link><description>&lt;p&gt;Luciano is the latest addition to my collection of ongoing proyects.
+to capture live audio, so I don't have to pre-record it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/experimenting-with-pitch-detection.html</guid><pubDate>Mon, 28 Sep 2009 16:19:08 GMT</pubDate></item><item><title>starting with luciano</title><link>http://www.kirkner.com.ar/blog/starting-with-luciano.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Luciano is the latest addition to my collection of ongoing proyects.
 The idea behind it is to have a tutor for enhancing your singing
 skills.&lt;/p&gt;
 &lt;p&gt;My goal with luciano is to make it capture input from a microphone,
@@ -211,4 +221,4 @@ notes that should have been sung.&lt;/p&gt;
 is singing. For example, he/she may see if the note he/she just sang
 was correct or if it was out of pitch.&lt;/p&gt;
 &lt;p&gt;The general idea is that by having the computer mark the errors, it
-will make it easier for the singer to learn a particular score.&lt;/p&gt;</description><guid>http://www.kirkner.com.ar/blog/starting-with-luciano.html</guid><pubDate>Mon, 28 Sep 2009 15:54:19 GMT</pubDate></item></channel></rss>
+will make it easier for the singer to learn a particular score.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://www.kirkner.com.ar/blog/starting-with-luciano.html</guid><pubDate>Mon, 28 Sep 2009 15:54:19 GMT</pubDate></item></channel></rss>
