@@ -85,7 +85,7 @@ Senior Software Engineer.
 * Integrated the application and Yahoo!'s internal bug management system.
 
 Senior Software Engineer.
-    Globant.  :date:`2008--2009`
+    Globant.  :date:`2008---2009`
 
 * Worked as a contractor for Google.
 * Designed and developed the UI for a VoIP application intended to serve as a high-performance and scalable PBX.
