@@ -254,7 +254,7 @@ research / publications
 
 Research: "On the possibilities of using previous knowledge in the form of Behaviour Trees in order to speed up Q-learning".  :date:`2008`
 
-Master Thesis: `"Reinforcement Learning on Self-reconfigurable Modular Robots" <ReinforcementLearningOnSelfReconfigurableModularRobots.pdf>`_, Departamento de Computación, FCEyN, UBA. :date:`03/2007`.
+Master Thesis: `"Reinforcement Learning on Self-reconfigurable Modular Robots" <http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf>`_, Departamento de Computación, FCEyN, UBA. :date:`03/2007`.
 
 Survey: "State of the Art in the field of Self-reconfigurable Modular Robots".  :date:`2005`
 
