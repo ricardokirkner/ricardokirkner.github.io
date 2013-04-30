@@ -134,7 +134,7 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. Buenos Ai
 
     Areas of interest:  machine learning, robotics, game theory, simulation, software design.
 
-    Master Thesis: `"Reinforcement Learning on Self-reconfigurable Modular Robots" <ReinforcementLearningOnSelfReconfigurableModularRobots.pdf>`_.
+    Master Thesis: `"Reinforcement Learning on Self-reconfigurable Modular Robots" <http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf>`_.
 
 Goethe Schule Buenos Aires. Buenos Aires, Argentina.
     :date:`1991---1997`.
