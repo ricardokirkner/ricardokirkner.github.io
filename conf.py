@@ -348,7 +348,21 @@ ADD_THIS_BUTTONS = False
 
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-# ANALYTICS = ""
+ANALYTICS = """
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-298687-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
