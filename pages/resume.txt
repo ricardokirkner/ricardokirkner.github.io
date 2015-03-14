@@ -36,7 +36,7 @@ employment
 Online Services - Technical Leader.
     Canonical Ltd.  :date:`2014...`
 
-* Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store (https://myapps.ubuntu.com).
+* Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store (https://myapps.developer.ubuntu.com).
 * Lead effort to provide automation around application submission to the Ubuntu App Store.
 * Lead effort to digitally sign applications submitted the the Ubuntu App Store.
 * Lead effort to automate deployments via Juju for the Ubuntu App Store.

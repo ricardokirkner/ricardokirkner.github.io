@@ -16,39 +16,39 @@ endobj
 << /A << /S /URI /Type /Action /URI (mailto:ricardo@kirkner.com.ar) >> /Border [ 0 0 0 ] /Rect [ 284.3298 739.0394 380.7298 751.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /A << /S /URI /Type /Action /URI (https://myapps.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 411.3257 563.8394 520.2257 575.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://myapps.developer.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 66.34575 551.8394 217.1757 563.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 426.8394 341.0257 438.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 414.8394 341.0257 426.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 408.8394 393.2657 420.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 396.8394 393.2657 408.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 259.8394 341.0257 271.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 247.8394 341.0257 259.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 241.8394 393.2657 253.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 229.8394 393.2657 241.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 256.7678 104.8394 348.9978 116.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 256.7678 92.83937 348.9978 104.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (https://launchpad.net/configglue) >> /Border [ 0 0 0 ] /Rect [ 200.3435 56.83937 329.5035 68.83937 ] /Subtype /Link /Type /Annot >>
-endobj
-13 0 obj
-<< /Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://launchpad.net/configglue) >> /Border [ 0 0 0 ] /Rect [ 200.3435 784.0394 329.5035 796.0394 ] /Subtype /Link /Type /Annot >>
+endobj
 14 0 obj
-<< /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Annots [ 13 0 R ] /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 15 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >> /Border [ 0 0 0 ] /Rect [ 121.6757 614.0394 389.1157 626.0394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >> /Border [ 0 0 0 ] /Rect [ 121.6757 596.0394 389.1157 608.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/destroy-pyconar2012) >> /Border [ 0 0 0 ] /Rect [ 60.01575 76.03937 314.1057 88.03937 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/destroy-pyconar2012) >> /Border [ 0 0 0 ] /Rect [ 60.01575 58.03937 314.1057 70.03937 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
 << /Annots [ 15 0 R 16 0 R ] /Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -111,26 +111,26 @@ endobj
 << /Outlines 37 0 R /PageLabels 51 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog >>
 endobj
 36 0 obj
-<< /Author () /CreationDate (D:20150314135725+03'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150314142039+03'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 37 0 obj
 << /Count 8 /First 38 0 R /Last 45 0 R /Type /Outlines >>
 endobj
 38 0 obj
-<< /Dest [ 13 0 R /XYZ 40.01575 641.8394 0 ] /Next 39 0 R /Parent 37 0 R /Title (employment) >>
+<< /Dest [ 12 0 R /XYZ 40.01575 641.8394 0 ] /Next 39 0 R /Parent 37 0 R /Title (employment) >>
 endobj
 39 0 obj
-<< /Dest [ 17 0 R /XYZ 40.01575 725.0394 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (education) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 707.0394 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (education) >>
 endobj
 40 0 obj
-<< /Dest [ 17 0 R /XYZ 40.01575 531.0394 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (languages) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 513.0394 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (languages) >>
 endobj
 41 0 obj
-<< /Dest [ 17 0 R /XYZ 40.01575 360.0394 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (skills) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 342.0394 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (skills) >>
 endobj
 42 0 obj
-<< /Dest [ 17 0 R /XYZ 40.01575 182.0394 0 ] /Next 43 0 R /Parent 37 0 R /Prev 41 0 R /Title (activism / events) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 164.0394 0 ] /Next 43 0 R /Parent 37 0 R /Prev 41 0 R /Title (activism / events) >>
 endobj
 43 0 obj
 << /Dest [ 34 0 R /XYZ 40.01575 498.0394 0 ] /Next 44 0 R /Parent 37 0 R /Prev 42 0 R /Title (open source projects) >>
@@ -142,10 +142,10 @@ endobj
 << /Dest [ 34 0 R /XYZ 40.01575 232.0394 0 ] /Parent 37 0 R /Prev 44 0 R /Title (contact) >>
 endobj
 46 0 obj
-<< /Count 4 /Kids [ 13 0 R 14 0 R 17 0 R 34 0 R ] /Type /Pages >>
+<< /Count 4 /Kids [ 12 0 R 14 0 R 17 0 R 34 0 R ] /Type /Pages >>
 endobj
 47 0 obj
-<< /Length 11757 >>
+<< /Length 11257 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -234,11 +234,11 @@ q
 1 0 0 1 40.01575 578.8394 cm
 Q
 q
-1 0 0 1 40.01575 566.8394 cm
+1 0 0 1 40.01575 554.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -247,17 +247,17 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store \() Tj 0 0 .501961 rg (https://myapps.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
+BT 1 0 0 1 0 14 Tm 11.52031 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store) Tj T* 0 Tw (\() Tj 0 0 .501961 rg (https://myapps.developer.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 40.01575 560.8394 cm
 Q
 q
 1 0 0 1 40.01575 548.8394 cm
+Q
+q
+1 0 0 1 40.01575 536.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -278,10 +278,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 542.8394 cm
+1 0 0 1 40.01575 530.8394 cm
 Q
 q
-1 0 0 1 40.01575 530.8394 cm
+1 0 0 1 40.01575 518.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -302,10 +302,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 524.8394 cm
+1 0 0 1 40.01575 512.8394 cm
 Q
 q
-1 0 0 1 40.01575 512.8394 cm
+1 0 0 1 40.01575 500.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -326,10 +326,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 506.8394 cm
+1 0 0 1 40.01575 494.8394 cm
 Q
 q
-1 0 0 1 40.01575 494.8394 cm
+1 0 0 1 40.01575 482.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -350,16 +350,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 478.8394 cm
+1 0 0 1 40.01575 466.8394 cm
 Q
 q
-1 0 0 1 40.01575 462.8394 cm
+1 0 0 1 40.01575 450.8394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Online Services - Accounts & Payments Technical Leader.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 447.8394 cm
+1 0 0 1 40.01575 435.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -373,13 +373,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 441.8394 cm
-Q
-q
-1 0 0 1 40.01575 441.8394 cm
+1 0 0 1 40.01575 429.8394 cm
 Q
 q
 1 0 0 1 40.01575 429.8394 cm
+Q
+q
+1 0 0 1 40.01575 417.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -399,10 +399,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 423.8394 cm
+1 0 0 1 40.01575 411.8394 cm
 Q
 q
-1 0 0 1 40.01575 411.8394 cm
+1 0 0 1 40.01575 399.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -422,10 +422,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 405.8394 cm
+1 0 0 1 40.01575 393.8394 cm
 Q
 q
-1 0 0 1 40.01575 393.8394 cm
+1 0 0 1 40.01575 381.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -446,10 +446,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 387.8394 cm
+1 0 0 1 40.01575 375.8394 cm
 Q
 q
-1 0 0 1 40.01575 363.8394 cm
+1 0 0 1 40.01575 351.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -470,10 +470,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 357.8394 cm
+1 0 0 1 40.01575 345.8394 cm
 Q
 q
-1 0 0 1 40.01575 345.8394 cm
+1 0 0 1 40.01575 333.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -494,10 +494,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 339.8394 cm
+1 0 0 1 40.01575 327.8394 cm
 Q
 q
-1 0 0 1 40.01575 327.8394 cm
+1 0 0 1 40.01575 315.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -518,17 +518,17 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 311.8394 cm
+1 0 0 1 40.01575 299.8394 cm
 Q
 q
-1 0 0 1 40.01575 295.8394 cm
+1 0 0 1 40.01575 283.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Account Services Team Manager.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 280.8394 cm
+1 0 0 1 40.01575 268.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -542,13 +542,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 274.8394 cm
-Q
-q
-1 0 0 1 40.01575 274.8394 cm
+1 0 0 1 40.01575 262.8394 cm
 Q
 q
 1 0 0 1 40.01575 262.8394 cm
+Q
+q
+1 0 0 1 40.01575 250.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -568,10 +568,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 256.8394 cm
+1 0 0 1 40.01575 244.8394 cm
 Q
 q
-1 0 0 1 40.01575 244.8394 cm
+1 0 0 1 40.01575 232.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -591,10 +591,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 238.8394 cm
+1 0 0 1 40.01575 226.8394 cm
 Q
 q
-1 0 0 1 40.01575 226.8394 cm
+1 0 0 1 40.01575 214.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -615,10 +615,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 220.8394 cm
+1 0 0 1 40.01575 208.8394 cm
 Q
 q
-1 0 0 1 40.01575 208.8394 cm
+1 0 0 1 40.01575 196.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -639,10 +639,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 202.8394 cm
+1 0 0 1 40.01575 190.8394 cm
 Q
 q
-1 0 0 1 40.01575 190.8394 cm
+1 0 0 1 40.01575 178.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -663,10 +663,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 184.8394 cm
+1 0 0 1 40.01575 172.8394 cm
 Q
 q
-1 0 0 1 40.01575 172.8394 cm
+1 0 0 1 40.01575 160.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -687,17 +687,17 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 156.8394 cm
+1 0 0 1 40.01575 144.8394 cm
 Q
 q
-1 0 0 1 40.01575 140.8394 cm
+1 0 0 1 40.01575 128.8394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Engineer.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 125.8394 cm
+1 0 0 1 40.01575 113.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -711,13 +711,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 119.8394 cm
+1 0 0 1 40.01575 107.8394 cm
 Q
 q
-1 0 0 1 40.01575 119.8394 cm
+1 0 0 1 40.01575 107.8394 cm
 Q
 q
-1 0 0 1 40.01575 95.83937 cm
+1 0 0 1 40.01575 83.83937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -737,10 +737,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 89.83937 cm
+1 0 0 1 40.01575 77.83937 cm
 Q
 q
-1 0 0 1 40.01575 77.83937 cm
+1 0 0 1 40.01575 65.83937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -761,10 +761,17 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 71.83937 cm
+1 0 0 1 40.01575 59.83937 cm
 Q
+ 
+endstream
+endobj
+48 0 obj
+<< /Length 12122 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 47.83937 cm
+1 0 0 1 40.01575 775.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -784,13 +791,676 @@ q
 Q
 Q
 q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to implement continuous delivery pipeline.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to improve testing practices.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 723.0394 cm
+Q
+q
+1 0 0 1 40.01575 707.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Technical Leader.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 692.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj (\226) Tj (2010) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 686.0394 cm
+Q
+q
+1 0 0 1 40.01575 686.0394 cm
+Q
+q
+1 0 0 1 40.01575 674.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Active Broadband Networks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 668.0394 cm
+Q
+q
+1 0 0 1 40.01575 644.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .079689 Tw (Lead team of people developing a system for collecting large volumes of data from cablemodem devices in order to gather) Tj T* 0 Tw (usage statistics.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 638.0394 cm
+Q
+q
+1 0 0 1 40.01575 626.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implementation deployed in the Comcast network, handling around 17 million cablemodem devices.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 620.0394 cm
+Q
+q
+1 0 0 1 40.01575 584.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .190195 Tw (Due to the sheer amount of data involved, several ad-hoc solutions had to be developed in order to manage this data while) Tj T* 0 Tw .416711 Tw (still complying to performance and hardware requirements and being able to provide a rich dataset for performing deeper) Tj T* 0 Tw (analysis \(ETL transformations for delayed consumption\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 568.0394 cm
+Q
+q
+1 0 0 1 40.01575 552.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 537.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 531.0394 cm
+Q
+q
+1 0 0 1 40.01575 531.0394 cm
+Q
+q
+1 0 0 1 40.01575 519.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Yahoo!.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 513.0394 cm
+Q
+q
+1 0 0 1 40.01575 501.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed the UI for an internal application for the Sponsored Search Management System.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 495.0394 cm
+Q
+q
+1 0 0 1 40.01575 483.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Integrated the application and Yahoo!) Tj (\222) Tj (s internal bug management system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 467.0394 cm
+Q
+q
+1 0 0 1 40.01575 451.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 436.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2008) Tj (\226) Tj (2009) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 430.0394 cm
+Q
+q
+1 0 0 1 40.01575 430.0394 cm
+Q
+q
+1 0 0 1 40.01575 418.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Google.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 412.0394 cm
+Q
+q
+1 0 0 1 40.01575 400.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed the UI for a VoIP application intended to serve as a high-performance and scalable PBX.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 394.0394 cm
+Q
+q
+1 0 0 1 40.01575 382.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Application required to handle up to 10K simultaneous SIP connections with a foreseen demand for up to 100K.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 376.0394 cm
+Q
+q
+1 0 0 1 40.01575 364.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (System designed to be used worldwide across several locations in a distributed fashion.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 348.0394 cm
+Q
+q
+1 0 0 1 40.01575 332.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Project Manager.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 317.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EasyTech. ) Tj /F3 10 Tf 0 0 0 rg (2007) Tj (\226) Tj (2008) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 311.0394 cm
+Q
+q
+1 0 0 1 40.01575 311.0394 cm
+Q
+q
+1 0 0 1 40.01575 299.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Designed and lead the development of a system for taking the Buenos Aires city) Tj (\222) Tj (s Driver) Tj (\222) Tj (s License exam.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 293.0394 cm
+Q
+q
+1 0 0 1 40.01575 281.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (System was used by roughly 1500 people each day.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 275.0394 cm
+Q
+q
+1 0 0 1 40.01575 263.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and lead the development of an application for creating and editing print-media products while offline.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 247.0394 cm
+Q
+q
+1 0 0 1 40.01575 231.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python Web Developer \(Plone\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 216.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EuskoSare. ) Tj /F3 10 Tf 0 0 0 rg (2005) Tj (\226) Tj (2006) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 210.0394 cm
+Q
+q
+1 0 0 1 40.01575 210.0394 cm
+Q
+q
+1 0 0 1 40.01575 198.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed a four-language multilingual web portal on top of the Plone CMS.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 192.0394 cm
+Q
+q
+1 0 0 1 40.01575 168.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .927131 Tw 12 TL /F1 10 Tf 0 0 0 rg (Designed novel interface to allow presenting content to the user in several languages simultaneously, according to each) Tj T* 0 Tw (user) Tj (\222) Tj (s personal preferences.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 162.0394 cm
+Q
+q
+1 0 0 1 40.01575 138.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.084006 Tw (Designed and implemented a news gathering system that would screen-scrape several news sites and then integrate the) Tj T* 0 Tw (gathered content into the portal, so that it could be searched like any other user generated content.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 122.0394 cm
+Q
+q
+1 0 0 1 40.01575 106.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (System and Network Administrator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 91.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. ) Tj /F3 10 Tf 0 0 0 rg (2001) Tj (\226) Tj (2005) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 85.03937 cm
+Q
+q
+1 0 0 1 40.01575 85.03937 cm
+Q
+q
+1 0 0 1 40.01575 73.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In charge of managing the whole network infrastructure for the university) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 67.03937 cm
+Q
+q
+1 0 0 1 40.01575 43.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.050256 Tw (Installed and administered web-, mail-, ldap- and file-servers, as well as routers, both hardware devices \(Cisco routers\)) Tj T* 0 Tw (and custom built GNU/Linux boxes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 40.01575 42.85039 cm
 Q
  
 endstream
 endobj
-48 0 obj
-<< /Length 11956 >>
+49 0 obj
+<< /Length 8098 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -808,7 +1478,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to implement continuous delivery pipeline.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dealt with monitoring and ensuring availability of services.) Tj T* ET
 Q
 Q
 q
@@ -832,676 +1502,6 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to improve testing practices.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 753.0394 cm
-Q
-q
-1 0 0 1 40.01575 737.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Technical Leader.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 722.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj (\226) Tj (2010) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 716.0394 cm
-Q
-q
-1 0 0 1 40.01575 716.0394 cm
-Q
-q
-1 0 0 1 40.01575 704.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Active Broadband Networks.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 698.0394 cm
-Q
-q
-1 0 0 1 40.01575 674.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .079689 Tw (Lead team of people developing a system for collecting large volumes of data from cablemodem devices in order to gather) Tj T* 0 Tw (usage statistics.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 668.0394 cm
-Q
-q
-1 0 0 1 40.01575 656.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implementation deployed in the Comcast network, handling around 17 million cablemodem devices.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 650.0394 cm
-Q
-q
-1 0 0 1 40.01575 614.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .190195 Tw (Due to the sheer amount of data involved, several ad-hoc solutions had to be developed in order to manage this data while) Tj T* 0 Tw .416711 Tw (still complying to performance and hardware requirements and being able to provide a rich dataset for performing deeper) Tj T* 0 Tw (analysis \(ETL transformations for delayed consumption\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 598.0394 cm
-Q
-q
-1 0 0 1 40.01575 582.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 567.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 561.0394 cm
-Q
-q
-1 0 0 1 40.01575 561.0394 cm
-Q
-q
-1 0 0 1 40.01575 549.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Yahoo!.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 543.0394 cm
-Q
-q
-1 0 0 1 40.01575 531.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed the UI for an internal application for the Sponsored Search Management System.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 525.0394 cm
-Q
-q
-1 0 0 1 40.01575 513.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Integrated the application and Yahoo!) Tj (\222) Tj (s internal bug management system.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 497.0394 cm
-Q
-q
-1 0 0 1 40.01575 481.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 466.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2008) Tj (\226) Tj (2009) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 460.0394 cm
-Q
-q
-1 0 0 1 40.01575 460.0394 cm
-Q
-q
-1 0 0 1 40.01575 448.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked as a contractor for Google.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 442.0394 cm
-Q
-q
-1 0 0 1 40.01575 430.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed the UI for a VoIP application intended to serve as a high-performance and scalable PBX.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 424.0394 cm
-Q
-q
-1 0 0 1 40.01575 412.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Application required to handle up to 10K simultaneous SIP connections with a foreseen demand for up to 100K.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 406.0394 cm
-Q
-q
-1 0 0 1 40.01575 394.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (System designed to be used worldwide across several locations in a distributed fashion.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 378.0394 cm
-Q
-q
-1 0 0 1 40.01575 362.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Project Manager.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 347.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EasyTech. ) Tj /F3 10 Tf 0 0 0 rg (2007) Tj (\226) Tj (2008) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 341.0394 cm
-Q
-q
-1 0 0 1 40.01575 341.0394 cm
-Q
-q
-1 0 0 1 40.01575 329.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Designed and lead the development of a system for taking the Buenos Aires city) Tj (\222) Tj (s Driver) Tj (\222) Tj (s License exam.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 323.0394 cm
-Q
-q
-1 0 0 1 40.01575 311.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (System was used by roughly 1500 people each day.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 305.0394 cm
-Q
-q
-1 0 0 1 40.01575 293.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and lead the development of an application for creating and editing print-media products while offline.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 277.0394 cm
-Q
-q
-1 0 0 1 40.01575 261.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python Web Developer \(Plone\).) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 246.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EuskoSare. ) Tj /F3 10 Tf 0 0 0 rg (2005) Tj (\226) Tj (2006) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 240.0394 cm
-Q
-q
-1 0 0 1 40.01575 240.0394 cm
-Q
-q
-1 0 0 1 40.01575 228.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and developed a four-language multilingual web portal on top of the Plone CMS.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 222.0394 cm
-Q
-q
-1 0 0 1 40.01575 198.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm .927131 Tw 12 TL /F1 10 Tf 0 0 0 rg (Designed novel interface to allow presenting content to the user in several languages simultaneously, according to each) Tj T* 0 Tw (user) Tj (\222) Tj (s personal preferences.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 192.0394 cm
-Q
-q
-1 0 0 1 40.01575 168.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.084006 Tw (Designed and implemented a news gathering system that would screen-scrape several news sites and then integrate the) Tj T* 0 Tw (gathered content into the portal, so that it could be searched like any other user generated content.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 152.0394 cm
-Q
-q
-1 0 0 1 40.01575 136.0394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (System and Network Administrator.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 121.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. ) Tj /F3 10 Tf 0 0 0 rg (2001) Tj (\226) Tj (2005) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 115.0394 cm
-Q
-q
-1 0 0 1 40.01575 115.0394 cm
-Q
-q
-1 0 0 1 40.01575 103.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In charge of managing the whole network infrastructure for the university) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 97.03937 cm
-Q
-q
-1 0 0 1 40.01575 73.03937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.050256 Tw (Installed and administered web-, mail-, ldap- and file-servers, as well as routers, both hardware devices \(Cisco routers\)) Tj T* 0 Tw (and custom built GNU/Linux boxes.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 67.03937 cm
-Q
-q
-1 0 0 1 40.01575 55.03937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dealt with monitoring and ensuring availability of services.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 49.03937 cm
-Q
- 
-endstream
-endobj
-49 0 obj
-<< /Length 7630 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 787.0394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set up an anti-spam mail filtering system that filtered 40000 spam emails daily.) Tj T* ET
 Q
 Q
@@ -1509,10 +1509,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 781.0394 cm
+1 0 0 1 40.01575 763.0394 cm
 Q
 q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 739.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1533,10 +1533,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 741.0394 cm
+1 0 0 1 40.01575 723.0394 cm
 Q
 q
-1 0 0 1 40.01575 701.0394 cm
+1 0 0 1 40.01575 683.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1548,14 +1548,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 683.0394 cm
+1 0 0 1 40.01575 665.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. Buenos Aires, Argentina.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 614.0394 cm
+1 0 0 1 40.01575 596.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 56 Tm  T* ET
@@ -1588,14 +1588,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 598.0394 cm
+1 0 0 1 40.01575 580.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Goethe Schule Buenos Aires. Buenos Aires, Argentina.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 547.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
@@ -1621,7 +1621,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 507.0394 cm
+1 0 0 1 40.01575 489.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1633,14 +1633,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 489.0394 cm
+1 0 0 1 40.01575 471.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Spanish: native) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 474.0394 cm
+1 0 0 1 40.01575 456.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1655,14 +1655,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 458.0394 cm
+1 0 0 1 40.01575 440.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (German: native) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 425.0394 cm
+1 0 0 1 40.01575 407.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -1682,14 +1682,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 409.0394 cm
+1 0 0 1 40.01575 391.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (English: advanced) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 376.0394 cm
+1 0 0 1 40.01575 358.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -1709,7 +1709,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 336.0394 cm
+1 0 0 1 40.01575 318.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1721,56 +1721,56 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 318.0394 cm
+1 0 0 1 40.01575 300.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python \(Django, Flask, OpenID, OAuth, Nose\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 300.0394 cm
+1 0 0 1 40.01575 282.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Javascript \(jQuery\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 282.0394 cm
+1 0 0 1 40.01575 264.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Source control systems \(Bazaar, Git, Subversion, Mercurial\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 264.0394 cm
+1 0 0 1 40.01575 246.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Operations \(Juju, Ansible, Puppet, Graphite, StatsD, Debian packaging, Nagios, Apache, Bind, Sendmail/Postfix/Exim\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 234.0394 cm
+1 0 0 1 40.01575 216.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.994009 Tw (Methodologies/idioms: continuous delivery, agile, test-driven \(TDD/BDD\), REST, complexity analysis \(Big O\). functional) Tj T* 0 Tw (programming, OOD, convention over configuration.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 216.0394 cm
+1 0 0 1 40.01575 198.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Relational and non-relational databases \(PostgreSQL, OpenLDAP\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 198.0394 cm
+1 0 0 1 40.01575 180.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web layout, design \(JavaScript, CSS\), UI, and deployment.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 158.0394 cm
+1 0 0 1 40.01575 140.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1782,14 +1782,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (activism / events) 
 Q
 Q
 q
-1 0 0 1 40.01575 140.0394 cm
+1 0 0 1 40.01575 122.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Member: Python Argentina - PyAr \(www.python.org.ar\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 107.0394 cm
+1 0 0 1 40.01575 89.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -1810,7 +1810,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 91.03937 cm
+1 0 0 1 40.01575 73.03937 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon Argentina 2012) Tj T* ET
@@ -1820,13 +1820,21 @@ q
 1 0 0 1 40.01575 58.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 20 Tm  T* ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 0 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Destruyendo obras de arte \(o automatizando la infraestructrura\)) Tj  T* ET
 Q
 Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 43.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
@@ -2183,60 +2191,60 @@ xref
 0000000352 00000 n
 0000000465 00000 n
 0000000649 00000 n
-0000000829 00000 n
-0000001006 00000 n
-0000001185 00000 n
-0000001362 00000 n
-0000001542 00000 n
-0000001720 00000 n
-0000001908 00000 n
-0000002181 00000 n
-0000002391 00000 n
-0000002631 00000 n
-0000002840 00000 n
-0000003076 00000 n
-0000003282 00000 n
-0000003492 00000 n
-0000003677 00000 n
-0000003857 00000 n
-0000004040 00000 n
-0000004252 00000 n
-0000004440 00000 n
-0000004635 00000 n
-0000004832 00000 n
-0000005027 00000 n
-0000005222 00000 n
-0000005462 00000 n
-0000005647 00000 n
-0000005844 00000 n
-0000006033 00000 n
-0000006214 00000 n
-0000006552 00000 n
-0000006661 00000 n
-0000006872 00000 n
-0000006949 00000 n
-0000007064 00000 n
-0000007191 00000 n
-0000007318 00000 n
-0000007442 00000 n
-0000007577 00000 n
-0000007715 00000 n
-0000007856 00000 n
-0000007968 00000 n
-0000008053 00000 n
-0000019868 00000 n
-0000031882 00000 n
-0000039569 00000 n
-0000046736 00000 n
-0000046807 00000 n
-0000046844 00000 n
-0000046881 00000 n
-0000046918 00000 n
+0000000839 00000 n
+0000001016 00000 n
+0000001195 00000 n
+0000001372 00000 n
+0000001552 00000 n
+0000001730 00000 n
+0000001996 00000 n
+0000002184 00000 n
+0000002413 00000 n
+0000002653 00000 n
+0000002862 00000 n
+0000003098 00000 n
+0000003304 00000 n
+0000003514 00000 n
+0000003699 00000 n
+0000003879 00000 n
+0000004062 00000 n
+0000004274 00000 n
+0000004462 00000 n
+0000004657 00000 n
+0000004854 00000 n
+0000005049 00000 n
+0000005244 00000 n
+0000005484 00000 n
+0000005669 00000 n
+0000005866 00000 n
+0000006055 00000 n
+0000006236 00000 n
+0000006574 00000 n
+0000006683 00000 n
+0000006894 00000 n
+0000006971 00000 n
+0000007086 00000 n
+0000007213 00000 n
+0000007340 00000 n
+0000007464 00000 n
+0000007599 00000 n
+0000007737 00000 n
+0000007878 00000 n
+0000007990 00000 n
+0000008075 00000 n
+0000019390 00000 n
+0000031570 00000 n
+0000039725 00000 n
+0000046892 00000 n
+0000046963 00000 n
+0000047000 00000 n
+0000047037 00000 n
+0000047074 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\300\357\317\345\202~2\226\3264\223iB\205\316\200) (\300\357\317\345\202~2\226\3264\223iB\205\316\200)]
+ [(\\\001ci\377\321\321I8\254!_9\326\271U) (\\\001ci\377\321\321I8\254!_9\326\271U)]
  /Info 36 0 R /Root 35 0 R /Size 56 >>
 startxref
-46955
+47111
 %%EOF
