@@ -3,16 +3,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <meta charset="utf-8">
-    <meta name="description" content="">
     <meta name="author" content="Ricardo Kirkner">
     <title>Résumé | dígame licenciado</title>
     
-            <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-            <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/rst.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/code.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/colorbox.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/theme.css" rel="stylesheet" type="text/css">
+            <link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
     <![endif]-->
@@ -26,7 +20,7 @@
 </head>
 <body>
 <!-- Menubar -->
-<div class="navbar navbar-fixed-top">
+<div class="navbar navbar-fixed-top" id="navbar">
     <div class="navbar-inner">
         <div class="container">
 
@@ -44,20 +38,18 @@
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     
-            <li class="active"><a href="#"><i class="icon-user"></i> résumé</a>
-            </li><li><a href="blog/"><i class="icon-book"></i> blog</a>
-            </li><li><a href="attic.html"><i class="icon-globe"></i> attic</a>
-            </li><li><a href="archive.html"><i class="icon-calendar"></i> archives</a>
+                <li class="active"><a href="#"><i class="icon-user"></i> résumé</a>
+                </li><li><a href="blog/"><i class="icon-book"></i> blog</a>
+                </li><li><a href="attic.html"><i class="icon-globe"></i> attic</a>
+                </li><li><a href="archive.html"><i class="icon-calendar"></i> archives</a>
 
                 </li></ul>
                 <ul class="nav pull-right">
                 
                 
-                
-    <li>
-    <a href="resume.txt" id="sourcelink">Source</a>
-    </li>
-
+                    <li>
+			<a href="./resume.txt" id="sourcelink">Source</a>
+		</li>
                 </ul>
             </div>
         </div>
@@ -84,8 +76,19 @@ Successful remote worker.
 <div class="section" id="employment">
 <h2>employment</h2>
 <dl class="docutils">
+<dt>Online Services - Technical Leader.</dt>
+<dd>Canonical Ltd.  <span class="date">2014...</span></dd>
+</dl>
+<ul class="simple">
+<li>Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store (<a class="reference external" href="https://myapps.ubuntu.com">https://myapps.ubuntu.com</a>).</li>
+<li>Lead effort to provide automation around application submission to the Ubuntu App Store.</li>
+<li>Lead effort to digitally sign applications submitted the the Ubuntu App Store.</li>
+<li>Lead effort to automate deployments via Juju for the Ubuntu App Store.</li>
+<li>Redesigned the application upload process to improve the user experience and reduce network round trips.</li>
+</ul>
+<dl class="docutils">
 <dt>Online Services - Accounts &amp; Payments Technical Leader.</dt>
-<dd>Canonical Ltd.  <span class="date">2013...</span></dd>
+<dd>Canonical Ltd.  <span class="date">2013---2014</span></dd>
 </dl>
 <ul class="simple">
 <li>Lead developer and architect for Ubuntu Pay (<a class="reference external" href="https://pay.ubuntu.com">https://pay.ubuntu.com</a>).</li>
@@ -93,6 +96,7 @@ Successful remote worker.
 <li>Release Manager for Ubuntu SSO and Ubuntu Pay.</li>
 <li>Designed and helped implementing new APIs for Ubuntu SSO based on REST principles. APIs are fully compliant with RMM Level 2 and partially with RMM Level 3.</li>
 <li>Designed and helped implementing UX improvements for simplifying sign in / sign up flows in Ubuntu SSO.</li>
+<li>Designed and implemented feature to detect accounts vulnerable due to Adobe password database leak.</li>
 </ul>
 <dl class="docutils">
 <dt>Account Services Team Manager.</dt>
@@ -214,8 +218,8 @@ Successful remote worker.
 <p>Python (Django, Flask, OpenID, OAuth, Nose).</p>
 <p>Javascript (jQuery)</p>
 <p>Source control systems (Bazaar, Git, Subversion, Mercurial).</p>
-<p>Operations (DEB packaging, Puppet, Nagios, Apache, Bind, Sendmail/Postfix/Exim).</p>
-<p>Methodologies/idioms: continuous delivery, agile, test-driven (TDD/BDD), REST,  complexity analysis (Big O). functional programming, OO, convention over configuration.</p>
+<p>Operations (Juju, Ansible, Puppet, Graphite, StatsD, Debian packaging, Nagios, Apache, Bind, Sendmail/Postfix/Exim).</p>
+<p>Methodologies/idioms: continuous delivery, agile, test-driven (TDD/BDD), REST,  complexity analysis (Big O). functional programming, OOD, convention over configuration.</p>
 <p>Relational and non-relational databases (PostgreSQL, OpenLDAP).</p>
 <p>Web layout, design (JavaScript, CSS), UI, and deployment.</p>
 </div>
@@ -234,8 +238,6 @@ Successful remote worker.
 <dd><p class="first"><a class="reference external" href="https://github.com/ricardokirkner/fabric-pycon2012">Using fabric to standardize the development process</a></p>
 <p class="last">Keywords: automation, fabric, development, deployment</p>
 </dd>
-</dl>
-<dl class="docutils">
 <dt>Speaker: PyCon US 2012</dt>
 <dd><p class="first"><a class="reference external" href="https://github.com/ricardokirkner/configglue-pycon2012">configglue - lightning talk</a></p>
 <p class="last">Keywords: configuration, command line, environment variables, optparse, ConfigParser, glue</p>
@@ -258,10 +260,11 @@ Successful remote worker.
 </div>
 <div class="section" id="open-source-projects">
 <span id="projects"></span><h2>open source projects</h2>
+<p><a class="reference external" href="https://github.com/ricardokirkner/collection-json.python">collection-json.python</a>. Simple python library to work with Collection+JSON documents.</p>
 <p><a class="reference external" href="https://launchpad.net/configglue">configglue</a>. Library that glues together python's OptionParser and ConfigParser.</p>
 <p><a class="reference external" href="https://launchpad.net/django-configglue">django-configglue</a>. Django app for using configglue to manage settings.</p>
 <p><a class="reference external" href="https://github.com/ricardokirkner/beehive">beehive</a>. Behaviour library for games.</p>
-<p><a class="reference external" href="https://reply.googlecode.com/">reply</a>. A Reinforcement Learning Library in Python.</p>
+<p><a class="reference external" href="https://github.com/ricardokirkner/reply">reply</a>. A Reinforcement Learning Library in Python.</p>
 <p><a class="reference external" href="https://github.com/ricardokirkner/mrsim">mrsim</a>. M-TRAN Robot Simulator.</p>
 </div>
 <div class="section" id="research-publications">
@@ -287,16 +290,24 @@ Successful remote worker.
     <!--End of body content-->
 </div>
 <div class="footerbox">
-    Contents © 2013 <a href="mailto:webmaster@kirkner.com.ar">Ricardo Kirkner</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>
+    Contents © 2015 <a href="mailto:webmaster@kirkner.com.ar">Ricardo Kirkner</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>
 </div>
 
+            <script src="assets/js/all-nocdn.js" type="text/javascript"></script>
 
 
-            <script src="assets/js/jquery-1.7.2.min.js" type="text/javascript"></script>
-            <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="assets/js/jquery.colorbox-min.js" type="text/javascript"></script>
+	
 
-
+    <script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+    $(window).on('hashchange', function(){
+        if (location.hash && $(location.hash)[0]) {
+            $('body').animate({scrollTop: $(location.hash).offset().top - $('#navbar').outerHeight(true)*1.2 }, 1);
+        }
+    });
+    $(document).ready(function(){$(window).trigger('hashchange')});
+    </script>
+    
+    
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -311,6 +322,5 @@ Successful remote worker.
 
 </script>
 
-    <script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script>
 </body>
 </html>
