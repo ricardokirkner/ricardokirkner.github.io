@@ -1,643 +1,151 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R
- /F3 4 0 R
- /F4 19 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Times-Roman
-<< /BaseFont /Times-Roman
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Times-Bold
-<< /BaseFont /Times-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
-% 'F3': class PDFType1Font 
 4 0 obj
-% Font Times-Italic
-<< /BaseFont /Times-Italic
- /Encoding /WinAnsiEncoding
- /Name /F3
- /Subtype /Type1
- /Type /Font >>
+<< /BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (mailto:ricardo@kirkner.com.ar) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 284.3298
- 739.7894
- 383.2298
- 751.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:ricardo@kirkner.com.ar) >> /Border [ 0 0 0 ] /Rect [ 284.3298 739.0394 380.7298 751.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 6 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://pay.ubuntu.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 248.7957
- 564.5894
- 341.0257
- 576.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://myapps.developer.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 66.34575 551.8394 217.1757 563.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://login.ubuntu.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 294.9157
- 546.5894
- 393.2657
- 558.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 414.8394 341.0257 426.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
 8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://pay.ubuntu.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 248.7957
- 415.5894
- 341.0257
- 427.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 396.8394 393.2657 408.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
 9 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://login.ubuntu.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 294.9157
- 397.5894
- 393.2657
- 409.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 248.7957 247.8394 341.0257 259.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER6': class PDFDictionary 
 10 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://pay.ubuntu.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 256.7678
- 260.5894
- 348.9978
- 272.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://login.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 294.9157 229.8394 393.2657 241.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER7': class PDFDictionary 
 11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://launchpad.net/configglue) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 200.3435
- 212.5894
- 329.5035
- 224.5894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://pay.ubuntu.com) >> /Border [ 0 0 0 ] /Rect [ 256.7678 92.83937 348.9978 104.8394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page1': class PDFPage 
 12 0 obj
-% Page dictionary
-<< /Annots [ 5 0 R
- 6 0 R
- 7 0 R
- 8 0 R
- 9 0 R
- 10 0 R
- 11 0 R ]
- /Contents 46 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 45 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'Page2': class PDFPage 
 13 0 obj
-% Page dictionary
-<< /Contents 47 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 45 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (https://launchpad.net/configglue) >> /Border [ 0 0 0 ] /Rect [ 200.3435 784.0394 329.5035 796.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
 14 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 121.6757
- 688.7894
- 389.1157
- 700.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /Annots [ 13 0 R ] /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
 15 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner/destroy-pyconar2012) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 60.01575
- 150.7894
- 314.1057
- 162.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >> /Border [ 0 0 0 ] /Rect [ 121.6757 596.0394 389.1157 608.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
 16 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner/fabric-pycon2012) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 60.01575
- 101.7894
- 269.4157
- 113.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/destroy-pyconar2012) >> /Border [ 0 0 0 ] /Rect [ 60.01575 58.03937 314.1057 70.03937 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page3': class PDFPage 
 17 0 obj
-% Page dictionary
-<< /Annots [ 14 0 R
- 15 0 R
- 16 0 R ]
- /Contents 48 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 45 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /Annots [ 15 0 R 16 0 R ] /Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
 18 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner/configglue-pycon2012) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 60.01575
- 772.7894
- 164.7357
- 784.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/fabric-pycon2012) >> /Border [ 0 0 0 ] /Rect [ 60.01575 772.0394 269.4157 784.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'F4': class PDFType1Font 
 19 0 obj
-% Font Times-BoldItalic
-<< /BaseFont /Times-BoldItalic
- /Encoding /WinAnsiEncoding
- /Name /F4
- /Subtype /Type1
- /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/configglue-pycon2012) >> /Border [ 0 0 0 ] /Rect [ 60.01575 723.0394 164.7357 735.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
 20 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://pyweek.org/e/aiamsori/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 89.17575
- 625.7894
- 123.6157
- 637.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://pyweek.org/e/aiamsori/) >> /Border [ 0 0 0 ] /Rect [ 89.17575 576.0394 123.6157 588.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
 21 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://pyweek.org/e/0AI/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 89.17575
- 594.7894
- 192.7657
- 606.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://pyweek.org/e/0AI/) >> /Border [ 0 0 0 ] /Rect [ 89.17575 545.0394 192.7657 557.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER14': class PDFDictionary 
 22 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://pyweek.org/e/pywiic/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 89.17575
- 563.7894
- 125.2857
- 575.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://pyweek.org/e/pywiic/) >> /Border [ 0 0 0 ] /Rect [ 89.17575 514.0394 125.2857 526.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER15': class PDFDictionary 
 23 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://launchpad.net/configglue) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 505.7894
- 82.78575
- 517.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/collection-json.python) >> /Border [ 0 0 0 ] /Rect [ 40.01575 456.0394 129.7357 468.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER16': class PDFDictionary 
 24 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://launchpad.net/django-configglue) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 487.7894
- 113.3357
- 499.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://launchpad.net/configglue) >> /Border [ 0 0 0 ] /Rect [ 40.01575 438.0394 82.78575 450.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER17': class PDFDictionary 
 25 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner/beehive) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 469.7894
- 71.11575
- 481.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://launchpad.net/django-configglue) >> /Border [ 0 0 0 ] /Rect [ 40.01575 420.0394 113.3357 432.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER18': class PDFDictionary 
 26 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://reply.googlecode.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 451.7894
- 60.56575
- 463.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/beehive) >> /Border [ 0 0 0 ] /Rect [ 40.01575 402.0394 71.11575 414.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER19': class PDFDictionary 
 27 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner/mrsim) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 40.01575
- 433.7894
- 65.57575
- 445.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/reply) >> /Border [ 0 0 0 ] /Rect [ 40.01575 384.0394 60.56575 396.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER20': class PDFDictionary 
 28 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 104.9674
- 345.7894
- 380.6365
- 357.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner/mrsim) >> /Border [ 0 0 0 ] /Rect [ 40.01575 366.0394 65.57575 378.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER21': class PDFDictionary 
 29 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (mailto:ricardo@kirkner.com.ar) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 69.17575
- 257.7894
- 165.5757
- 269.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.kirkner.com.ar/ReinforcementLearningOnSelfReconfigurableModularRobots.pdf) >> /Border [ 0 0 0 ] /Rect [ 104.9674 278.0394 380.6365 290.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER22': class PDFDictionary 
 30 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.linkedin.com/in/ricardokirkner) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 80.86575
- 167.7894
- 251.9657
- 179.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:ricardo@kirkner.com.ar) >> /Border [ 0 0 0 ] /Rect [ 69.17575 190.0394 165.5757 202.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER23': class PDFDictionary 
 31 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/ricardokirkner) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 73.63575
- 149.7894
- 206.6857
- 161.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.linkedin.com/in/ricardokirkner) >> /Border [ 0 0 0 ] /Rect [ 80.86575 100.0394 251.9657 112.0394 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Annot.NUMBER24': class PDFDictionary 
 32 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.kirkner.com.ar) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 67.50575
- 131.7894
- 174.4357
- 143.7894 ]
- /Subtype /Link
- /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ricardokirkner) >> /Border [ 0 0 0 ] /Rect [ 73.63575 82.03937 206.6857 94.03937 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'Page4': class PDFPage 
 33 0 obj
-% Page dictionary
-<< /Annots [ 18 0 R
- 20 0 R
- 21 0 R
- 22 0 R
- 23 0 R
- 24 0 R
- 25 0 R
- 26 0 R
- 27 0 R
- 28 0 R
- 29 0 R
- 30 0 R
- 31 0 R
- 32 0 R ]
- /Contents 49 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 45 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://www.kirkner.com.ar) >> /Border [ 0 0 0 ] /Rect [ 67.50575 64.03937 174.4357 76.03937 ] /Subtype /Link /Type /Annot >>
 endobj
-% 'R34': class PDFCatalog 
 34 0 obj
-% Document Root
-<< /Outlines 36 0 R
- /PageLabels 50 0 R
- /PageMode /UseNone
- /Pages 45 0 R
- /Type /Catalog >>
+<< /Annots [ 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 
+  28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R ] /Contents 50 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
-% 'R35': class PDFInfo 
 35 0 obj
-<< /Author ()
- /CreationDate (D:20130429215759+03'00')
- /Creator (\(unspecified\))
- /Keywords ()
- /Producer (ReportLab PDF Library - www.reportlab.com)
- /Subject (\(unspecified\))
- /Title () >>
+<< /Outlines 37 0 R /PageLabels 51 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog >>
 endobj
-% 'R36': class PDFOutlines 
 36 0 obj
-<< /Count 8
- /First 37 0 R
- /Last 44 0 R
- /Type /Outlines >>
+<< /Author () /CreationDate (D:20150314142039+03'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
-% 'Outline.0': class OutlineEntryObject 
 37 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 40.01575
- 641.8394
- 0 ]
- /Next 38 0 R
- /Parent 36 0 R
- /Title (employment) >>
+<< /Count 8 /First 38 0 R /Last 45 0 R /Type /Outlines >>
 endobj
-% 'Outline.1': class OutlineEntryObject 
 38 0 obj
-<< /Dest [ 17 0 R
- /XYZ
- 40.01575
- 799.0394
- 0 ]
- /Next 39 0 R
- /Parent 36 0 R
- /Prev 37 0 R
- /Title (education) >>
+<< /Dest [ 12 0 R /XYZ 40.01575 641.8394 0 ] /Next 39 0 R /Parent 37 0 R /Title (employment) >>
 endobj
-% 'Outline.2': class OutlineEntryObject 
 39 0 obj
-<< /Dest [ 17 0 R
- /XYZ
- 40.01575
- 605.0394
- 0 ]
- /Next 40 0 R
- /Parent 36 0 R
- /Prev 38 0 R
- /Title (languages) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 707.0394 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (education) >>
 endobj
-% 'Outline.3': class OutlineEntryObject 
 40 0 obj
-<< /Dest [ 17 0 R
- /XYZ
- 40.01575
- 434.0394
- 0 ]
- /Next 41 0 R
- /Parent 36 0 R
- /Prev 39 0 R
- /Title (skills) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 513.0394 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (languages) >>
 endobj
-% 'Outline.4': class OutlineEntryObject 
 41 0 obj
-<< /Dest [ 17 0 R
- /XYZ
- 40.01575
- 256.0394
- 0 ]
- /Next 42 0 R
- /Parent 36 0 R
- /Prev 40 0 R
- /Title (activism / events) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 342.0394 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (skills) >>
 endobj
-% 'Outline.5': class OutlineEntryObject 
 42 0 obj
-<< /Dest [ 33 0 R
- /XYZ
- 40.01575
- 547.0394
- 0 ]
- /Next 43 0 R
- /Parent 36 0 R
- /Prev 41 0 R
- /Title (open source projects) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 164.0394 0 ] /Next 43 0 R /Parent 37 0 R /Prev 41 0 R /Title (activism / events) >>
 endobj
-% 'Outline.6': class OutlineEntryObject 
 43 0 obj
-<< /Dest [ 33 0 R
- /XYZ
- 40.01575
- 417.0394
- 0 ]
- /Next 44 0 R
- /Parent 36 0 R
- /Prev 42 0 R
- /Title (research / publications) >>
+<< /Dest [ 34 0 R /XYZ 40.01575 498.0394 0 ] /Next 44 0 R /Parent 37 0 R /Prev 42 0 R /Title (open source projects) >>
 endobj
-% 'Outline.7': class OutlineEntryObject 
 44 0 obj
-<< /Dest [ 33 0 R
- /XYZ
- 40.01575
- 299.0394
- 0 ]
- /Parent 36 0 R
- /Prev 43 0 R
- /Title (contact) >>
+<< /Dest [ 34 0 R /XYZ 40.01575 350.0394 0 ] /Next 45 0 R /Parent 37 0 R /Prev 43 0 R /Title (research / publications) >>
 endobj
-% 'R45': class PDFPages 
 45 0 obj
-% page tree
-<< /Count 4
- /Kids [ 12 0 R
- 13 0 R
- 17 0 R
- 33 0 R ]
- /Type /Pages >>
+<< /Dest [ 34 0 R /XYZ 40.01575 232.0394 0 ] /Parent 37 0 R /Prev 44 0 R /Title (contact) >>
 endobj
-% 'R46': class PDFStream 
 46 0 obj
-% page stream
-<< /Length 9580 >>
+<< /Count 4 /Kids [ 12 0 R 14 0 R 17 0 R 34 0 R ] /Type /Pages >>
+endobj
+47 0 obj
+<< /Length 11257 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -701,7 +209,8 @@ Q
 q
 1 0 0 1 40.01575 599.8394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Online Services - Accounts & Payments Technical Leader.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Online Services - Technical Leader.) Tj T* ET
 Q
 Q
 q
@@ -712,7 +221,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf (2013) Tj (\205) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf 0 0 0 rg (2014) Tj (\205) Tj T* ET
 Q
 Q
 q
@@ -725,77 +234,7 @@ q
 1 0 0 1 40.01575 578.8394 cm
 Q
 q
-1 0 0 1 40.01575 566.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Pay \() Tj 0 0 .501961 rg (https://pay.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 560.8394 cm
-Q
-q
-1 0 0 1 40.01575 548.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Single Sign On \() Tj 0 0 .501961 rg (https://login.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 542.8394 cm
-Q
-q
-1 0 0 1 40.01575 530.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Release Manager for Ubuntu SSO and Ubuntu Pay.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 524.8394 cm
-Q
-q
-1 0 0 1 40.01575 500.8394 cm
+1 0 0 1 40.01575 554.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -808,8 +247,79 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 14 Tm 11.52031 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store) Tj T* 0 Tw (\() Tj 0 0 .501961 rg (https://myapps.developer.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 548.8394 cm
+Q
+q
+1 0 0 1 40.01575 536.8394 cm
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .624358 Tw (Designed and helped implementing new APIs for Ubuntu SSO based on REST principles. APIs are fully compliant with) Tj T* 0 Tw (RMM Level 2 and partially with RMM Level 3.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to provide automation around application submission to the Ubuntu App Store.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 530.8394 cm
+Q
+q
+1 0 0 1 40.01575 518.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to digitally sign applications submitted the the Ubuntu App Store.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 512.8394 cm
+Q
+q
+1 0 0 1 40.01575 500.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to automate deployments via Juju for the Ubuntu App Store.) Tj T* ET
 Q
 Q
 q
@@ -833,7 +343,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and helped implementing UX improvements for simplifying sign in / sign up flows in Ubuntu SSO.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Redesigned the application upload process to improve the user experience and reduce network round trips.) Tj T* ET
 Q
 Q
 q
@@ -845,8 +355,7 @@ Q
 q
 1 0 0 1 40.01575 450.8394 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Account Services Team Manager.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Online Services - Accounts & Payments Technical Leader.) Tj T* ET
 Q
 Q
 q
@@ -857,7 +366,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf (2011) Tj (\226) Tj (2013) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf 0 0 0 rg (2013) Tj (\226) Tj (2014) Tj T* ET
 Q
 Q
 q
@@ -940,106 +449,7 @@ q
 1 0 0 1 40.01575 375.8394 cm
 Q
 q
-1 0 0 1 40.01575 363.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead and helped implementing PayPal support into Ubuntu Pay.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 357.8394 cm
-Q
-q
-1 0 0 1 40.01575 345.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead and helped implementing two-factor authentication support into Ubuntu SSO \(based on HOTP\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 339.8394 cm
-Q
-q
-1 0 0 1 40.01575 327.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to automate development environments for increased consistency and reproducibility.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 311.8394 cm
-Q
-q
-1 0 0 1 40.01575 295.8394 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Engineer.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 280.8394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf (2010) Tj (\226) Tj (2011) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 274.8394 cm
-Q
-q
-1 0 0 1 40.01575 274.8394 cm
-Q
-q
-1 0 0 1 40.01575 250.8394 cm
+1 0 0 1 40.01575 351.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1052,7 +462,106 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.138864 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Pay \() Tj 0 0 .501961 rg (https://pay.ubuntu.com) Tj 0 0 0 rg (\), a payment gateway for processing payments on) Tj T* 0 Tw (behalf of several Ubuntu-related services.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .624358 Tw (Designed and helped implementing new APIs for Ubuntu SSO based on REST principles. APIs are fully compliant with) Tj T* 0 Tw (RMM Level 2 and partially with RMM Level 3.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 345.8394 cm
+Q
+q
+1 0 0 1 40.01575 333.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and helped implementing UX improvements for simplifying sign in / sign up flows in Ubuntu SSO.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+Q
+q
+1 0 0 1 40.01575 315.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and implemented feature to detect accounts vulnerable due to Adobe password database leak.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 299.8394 cm
+Q
+q
+1 0 0 1 40.01575 283.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Account Services Team Manager.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 268.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf 0 0 0 rg (2011) Tj (\226) Tj (2013) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 262.8394 cm
+Q
+q
+1 0 0 1 40.01575 262.8394 cm
+Q
+q
+1 0 0 1 40.01575 250.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Pay \() Tj 0 0 .501961 rg (https://pay.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
 Q
 Q
 q
@@ -1075,8 +584,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and implemented first publicly released version of Ubuntu Pay.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Single Sign On \() Tj 0 0 .501961 rg (https://login.ubuntu.com) Tj 0 0 0 rg (\).) Tj T* ET
 Q
 Q
 q
@@ -1086,7 +594,184 @@ q
 1 0 0 1 40.01575 226.8394 cm
 Q
 q
-1 0 0 1 40.01575 202.8394 cm
+1 0 0 1 40.01575 214.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Release Manager for Ubuntu SSO and Ubuntu Pay.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 208.8394 cm
+Q
+q
+1 0 0 1 40.01575 196.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead and helped implementing PayPal support into Ubuntu Pay.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 190.8394 cm
+Q
+q
+1 0 0 1 40.01575 178.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead and helped implementing two-factor authentication support into Ubuntu SSO \(based on HOTP\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 172.8394 cm
+Q
+q
+1 0 0 1 40.01575 160.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Lead effort to automate development environments for increased consistency and reproducibility.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 144.8394 cm
+Q
+q
+1 0 0 1 40.01575 128.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Engineer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 113.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Canonical Ltd. ) Tj /F3 10 Tf 0 0 0 rg (2010) Tj (\226) Tj (2011) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 107.8394 cm
+Q
+q
+1 0 0 1 40.01575 107.8394 cm
+Q
+q
+1 0 0 1 40.01575 83.83937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.138864 Tw 12 TL /F1 10 Tf 0 0 0 rg (Lead developer and architect for Ubuntu Pay \() Tj 0 0 .501961 rg (https://pay.ubuntu.com) Tj 0 0 0 rg (\), a payment gateway for processing payments on) Tj T* 0 Tw (behalf of several Ubuntu-related services.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 77.83937 cm
+Q
+q
+1 0 0 1 40.01575 65.83937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and implemented first publicly released version of Ubuntu Pay.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 59.83937 cm
+Q
+ 
+endstream
+endobj
+48 0 obj
+<< /Length 12122 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1106,10 +791,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 196.8394 cm
+1 0 0 1 40.01575 769.0394 cm
 Q
 q
-1 0 0 1 40.01575 184.8394 cm
+1 0 0 1 40.01575 757.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1130,10 +815,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 178.8394 cm
+1 0 0 1 40.01575 751.0394 cm
 Q
 q
-1 0 0 1 40.01575 166.8394 cm
+1 0 0 1 40.01575 739.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1154,49 +839,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 150.8394 cm
+1 0 0 1 40.01575 723.0394 cm
 Q
 q
-1 0 0 1 40.01575 150.8394 cm
-Q
- 
-endstream
-endobj
-% 'R47': class PDFStream 
-47 0 obj
-% page stream
-<< /Length 12055 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 787.0394 cm
+1 0 0 1 40.01575 707.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Technical Leader.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 772.0394 cm
+1 0 0 1 40.01575 692.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf (2009) Tj (\226) Tj (2010) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj (\226) Tj (2010) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 766.0394 cm
+1 0 0 1 40.01575 686.0394 cm
 Q
 q
-1 0 0 1 40.01575 766.0394 cm
+1 0 0 1 40.01575 686.0394 cm
 Q
 q
-1 0 0 1 40.01575 754.0394 cm
+1 0 0 1 40.01575 674.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1217,10 +890,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 748.0394 cm
+1 0 0 1 40.01575 668.0394 cm
 Q
 q
-1 0 0 1 40.01575 724.0394 cm
+1 0 0 1 40.01575 644.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1241,10 +914,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 718.0394 cm
+1 0 0 1 40.01575 638.0394 cm
 Q
 q
-1 0 0 1 40.01575 706.0394 cm
+1 0 0 1 40.01575 626.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1265,10 +938,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 700.0394 cm
+1 0 0 1 40.01575 620.0394 cm
 Q
 q
-1 0 0 1 40.01575 664.0394 cm
+1 0 0 1 40.01575 584.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1289,37 +962,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 648.0394 cm
+1 0 0 1 40.01575 568.0394 cm
 Q
 q
-1 0 0 1 40.01575 632.0394 cm
+1 0 0 1 40.01575 552.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 617.0394 cm
+1 0 0 1 40.01575 537.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf (2009) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2009) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 611.0394 cm
+1 0 0 1 40.01575 531.0394 cm
 Q
 q
-1 0 0 1 40.01575 611.0394 cm
+1 0 0 1 40.01575 531.0394 cm
 Q
 q
-1 0 0 1 40.01575 599.0394 cm
+1 0 0 1 40.01575 519.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1340,10 +1013,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 593.0394 cm
+1 0 0 1 40.01575 513.0394 cm
 Q
 q
-1 0 0 1 40.01575 581.0394 cm
+1 0 0 1 40.01575 501.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1364,10 +1037,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 575.0394 cm
+1 0 0 1 40.01575 495.0394 cm
 Q
 q
-1 0 0 1 40.01575 563.0394 cm
+1 0 0 1 40.01575 483.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1387,37 +1060,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 547.0394 cm
+1 0 0 1 40.01575 467.0394 cm
 Q
 q
-1 0 0 1 40.01575 531.0394 cm
+1 0 0 1 40.01575 451.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 516.0394 cm
+1 0 0 1 40.01575 436.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf (2008) Tj (\226) Tj (2009) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Globant. ) Tj /F3 10 Tf 0 0 0 rg (2008) Tj (\226) Tj (2009) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 510.0394 cm
+1 0 0 1 40.01575 430.0394 cm
 Q
 q
-1 0 0 1 40.01575 510.0394 cm
+1 0 0 1 40.01575 430.0394 cm
 Q
 q
-1 0 0 1 40.01575 498.0394 cm
+1 0 0 1 40.01575 418.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1438,10 +1111,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 492.0394 cm
+1 0 0 1 40.01575 412.0394 cm
 Q
 q
-1 0 0 1 40.01575 480.0394 cm
+1 0 0 1 40.01575 400.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1462,10 +1135,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 474.0394 cm
+1 0 0 1 40.01575 394.0394 cm
 Q
 q
-1 0 0 1 40.01575 462.0394 cm
+1 0 0 1 40.01575 382.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1486,10 +1159,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 456.0394 cm
+1 0 0 1 40.01575 376.0394 cm
 Q
 q
-1 0 0 1 40.01575 444.0394 cm
+1 0 0 1 40.01575 364.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1510,37 +1183,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 428.0394 cm
+1 0 0 1 40.01575 348.0394 cm
 Q
 q
-1 0 0 1 40.01575 412.0394 cm
+1 0 0 1 40.01575 332.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Project Manager.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 397.0394 cm
+1 0 0 1 40.01575 317.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EasyTech. ) Tj /F3 10 Tf (2007) Tj (\226) Tj (2008) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EasyTech. ) Tj /F3 10 Tf 0 0 0 rg (2007) Tj (\226) Tj (2008) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 391.0394 cm
+1 0 0 1 40.01575 311.0394 cm
 Q
 q
-1 0 0 1 40.01575 391.0394 cm
+1 0 0 1 40.01575 311.0394 cm
 Q
 q
-1 0 0 1 40.01575 379.0394 cm
+1 0 0 1 40.01575 299.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1560,10 +1233,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 373.0394 cm
+1 0 0 1 40.01575 293.0394 cm
 Q
 q
-1 0 0 1 40.01575 361.0394 cm
+1 0 0 1 40.01575 281.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1584,10 +1257,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 355.0394 cm
+1 0 0 1 40.01575 275.0394 cm
 Q
 q
-1 0 0 1 40.01575 343.0394 cm
+1 0 0 1 40.01575 263.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1608,37 +1281,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 327.0394 cm
+1 0 0 1 40.01575 247.0394 cm
 Q
 q
-1 0 0 1 40.01575 311.0394 cm
+1 0 0 1 40.01575 231.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python Web Developer \(Plone\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 296.0394 cm
+1 0 0 1 40.01575 216.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EuskoSare. ) Tj /F3 10 Tf (2005) Tj (\226) Tj (2006) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (EuskoSare. ) Tj /F3 10 Tf 0 0 0 rg (2005) Tj (\226) Tj (2006) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 290.0394 cm
+1 0 0 1 40.01575 210.0394 cm
 Q
 q
-1 0 0 1 40.01575 290.0394 cm
+1 0 0 1 40.01575 210.0394 cm
 Q
 q
-1 0 0 1 40.01575 278.0394 cm
+1 0 0 1 40.01575 198.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1659,10 +1332,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 272.0394 cm
+1 0 0 1 40.01575 192.0394 cm
 Q
 q
-1 0 0 1 40.01575 248.0394 cm
+1 0 0 1 40.01575 168.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1682,10 +1355,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 242.0394 cm
+1 0 0 1 40.01575 162.0394 cm
 Q
 q
-1 0 0 1 40.01575 218.0394 cm
+1 0 0 1 40.01575 138.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1706,37 +1379,37 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 202.0394 cm
+1 0 0 1 40.01575 122.0394 cm
 Q
 q
-1 0 0 1 40.01575 186.0394 cm
+1 0 0 1 40.01575 106.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (System and Network Administrator.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 171.0394 cm
+1 0 0 1 40.01575 91.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. ) Tj /F3 10 Tf (2001) Tj (\226) Tj (2005) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. ) Tj /F3 10 Tf 0 0 0 rg (2001) Tj (\226) Tj (2005) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 165.0394 cm
+1 0 0 1 40.01575 85.03937 cm
 Q
 q
-1 0 0 1 40.01575 165.0394 cm
+1 0 0 1 40.01575 85.03937 cm
 Q
 q
-1 0 0 1 40.01575 153.0394 cm
+1 0 0 1 40.01575 73.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1757,10 +1430,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 147.0394 cm
+1 0 0 1 40.01575 67.03937 cm
 Q
 q
-1 0 0 1 40.01575 123.0394 cm
+1 0 0 1 40.01575 43.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1781,10 +1454,17 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 117.0394 cm
+1 0 0 1 40.01575 42.85039 cm
 Q
+ 
+endstream
+endobj
+49 0 obj
+<< /Length 8098 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 105.0394 cm
+1 0 0 1 40.01575 787.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1805,10 +1485,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 99.03937 cm
+1 0 0 1 40.01575 781.0394 cm
 Q
 q
-1 0 0 1 40.01575 87.03937 cm
+1 0 0 1 40.01575 769.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1829,10 +1509,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 81.03937 cm
+1 0 0 1 40.01575 763.0394 cm
 Q
 q
-1 0 0 1 40.01575 57.03937 cm
+1 0 0 1 40.01575 739.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1853,19 +1533,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 42.85039 cm
+1 0 0 1 40.01575 723.0394 cm
 Q
- 
-endstream
-endobj
-% 'R48': class PDFStream 
-48 0 obj
-% page stream
-<< /Length 7170 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 775.0394 cm
+1 0 0 1 40.01575 683.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1877,14 +1548,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 757.0394 cm
+1 0 0 1 40.01575 665.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. Buenos Aires, Argentina.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 688.0394 cm
+1 0 0 1 40.01575 596.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 56 Tm  T* ET
@@ -1897,7 +1568,7 @@ Q
 q
 1 0 0 1 20 36 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Licenciado en Ciencias de la Computaci\363n ) Tj /F1 10 Tf (\(6-year programme; awarded ) Tj /F3 10 Tf (03/2007) Tj /F1 10 Tf (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Licenciado en Ciencias de la Computaci\363n ) Tj /F1 10 Tf (\(6-year programme; awarded ) Tj /F3 10 Tf 0 0 0 rg (03/2007) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
@@ -1917,40 +1588,40 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 672.0394 cm
+1 0 0 1 40.01575 580.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Goethe Schule Buenos Aires. Buenos Aires, Argentina.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 621.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
 q
 1 0 0 1 20 36 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (1991) Tj (\226) Tj (1997) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (1991) Tj (\226) Tj (1997) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 18 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Deutsches Abitur ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf (12/1997) Tj /F1 10 Tf (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Deutsches Abitur ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf 0 0 0 rg (12/1997) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Bachillerato Nacional Biling\374e en Ciencias y Humanidades con Orientaci\363n Cient\355fica ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf (12/1996) Tj /F1 10 Tf (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Bachillerato Nacional Biling\374e en Ciencias y Humanidades con Orientaci\363n Cient\355fica ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf 0 0 0 rg (12/1996) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 581.0394 cm
+1 0 0 1 40.01575 489.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1962,14 +1633,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 563.0394 cm
+1 0 0 1 40.01575 471.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Spanish: native) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 548.0394 cm
+1 0 0 1 40.01575 456.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1984,21 +1655,21 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 532.0394 cm
+1 0 0 1 40.01575 440.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (German: native) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 499.0394 cm
+1 0 0 1 40.01575 407.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
 q
 1 0 0 1 20 18 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Deutsches Sprachdiplom Zweite Stufe ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf (1996) Tj /F1 10 Tf (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Deutsches Sprachdiplom Zweite Stufe ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf 0 0 0 rg (1996) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
@@ -2011,21 +1682,21 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 483.0394 cm
+1 0 0 1 40.01575 391.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (English: advanced) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 450.0394 cm
+1 0 0 1 40.01575 358.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
 q
 1 0 0 1 20 18 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Certificate of Proficiency in English ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf (1995) Tj /F1 10 Tf (\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Degree:) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Certificate of Proficiency in English ) Tj /F1 10 Tf (\(awarded ) Tj /F3 10 Tf 0 0 0 rg (1995) Tj /F1 10 Tf 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 q
@@ -2038,7 +1709,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 410.0394 cm
+1 0 0 1 40.01575 318.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2050,56 +1721,56 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 392.0394 cm
+1 0 0 1 40.01575 300.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python \(Django, Flask, OpenID, OAuth, Nose\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 374.0394 cm
+1 0 0 1 40.01575 282.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Javascript \(jQuery\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 356.0394 cm
+1 0 0 1 40.01575 264.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Source control systems \(Bazaar, Git, Subversion, Mercurial\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 338.0394 cm
+1 0 0 1 40.01575 246.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Operations \(DEB packaging, Puppet, Nagios, Apache, Bind, Sendmail/Postfix/Exim\).) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Operations \(Juju, Ansible, Puppet, Graphite, StatsD, Debian packaging, Nagios, Apache, Bind, Sendmail/Postfix/Exim\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 308.0394 cm
+1 0 0 1 40.01575 216.0394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.994009 Tw (Methodologies/idioms: continuous delivery, agile, test-driven \(TDD/BDD\), REST, complexity analysis \(Big O\). functional) Tj T* 0 Tw (programming, OO, convention over configuration.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.994009 Tw (Methodologies/idioms: continuous delivery, agile, test-driven \(TDD/BDD\), REST, complexity analysis \(Big O\). functional) Tj T* 0 Tw (programming, OOD, convention over configuration.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 290.0394 cm
+1 0 0 1 40.01575 198.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Relational and non-relational databases \(PostgreSQL, OpenLDAP\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 272.0394 cm
+1 0 0 1 40.01575 180.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web layout, design \(JavaScript, CSS\), UI, and deployment.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 232.0394 cm
+1 0 0 1 40.01575 140.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2111,14 +1782,14 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (activism / events) 
 Q
 Q
 q
-1 0 0 1 40.01575 214.0394 cm
+1 0 0 1 40.01575 122.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Member: Python Argentina - PyAr \(www.python.org.ar\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 181.0394 cm
+1 0 0 1 40.01575 89.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -2139,23 +1810,31 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 165.0394 cm
+1 0 0 1 40.01575 73.03937 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon Argentina 2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 132.0394 cm
+1 0 0 1 40.01575 58.03937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 20 Tm  T* ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 0 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Destruyendo obras de arte \(o automatizando la infraestructrura\)) Tj  T* ET
 Q
 Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 43.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
@@ -2166,15 +1845,22 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+50 0 obj
+<< /Length 7110 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 40.01575 116.0394 cm
+1 0 0 1 40.01575 787.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon US 2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 83.03937 cm
+1 0 0 1 40.01575 754.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -2195,26 +1881,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 83.03937 cm
-Q
- 
-endstream
-endobj
-% 'R49': class PDFStream 
-49 0 obj
-% page stream
-<< /Length 6337 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 40.01575 787.0394 cm
+1 0 0 1 40.01575 738.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon US 2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 754.0394 cm
+1 0 0 1 40.01575 705.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -2235,14 +1909,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 738.0394 cm
+1 0 0 1 40.01575 689.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon Argentina 2011) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 705.0394 cm
+1 0 0 1 40.01575 656.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -2264,14 +1938,14 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 689.0394 cm
+1 0 0 1 40.01575 640.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Speaker: PyCon Argentina 2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 656.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 20 Tm  T* ET
@@ -2293,13 +1967,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 640.0394 cm
+1 0 0 1 40.01575 591.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #8, ) Tj /F4 10 Tf (04/2009) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #8, ) Tj /F3 10 Tf 0 0 0 rg (04/2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 576.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2313,13 +1987,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 609.0394 cm
+1 0 0 1 40.01575 560.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #7, ) Tj /F4 10 Tf (09/2008) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #7, ) Tj /F3 10 Tf 0 0 0 rg (09/2008) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 594.0394 cm
+1 0 0 1 40.01575 545.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2333,13 +2007,13 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 578.0394 cm
+1 0 0 1 40.01575 529.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #6, ) Tj /F4 10 Tf (03/2008) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Team Entry: PyWeek #6, ) Tj /F3 10 Tf 0 0 0 rg (03/2008) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 563.0394 cm
+1 0 0 1 40.01575 514.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2353,7 +2027,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 523.0394 cm
+1 0 0 1 40.01575 474.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2365,37 +2039,43 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (open source project
 Q
 Q
 q
-1 0 0 1 40.01575 505.0394 cm
+1 0 0 1 40.01575 456.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (collection-json.python) Tj 0 0 0 rg (. Simple python library to work with Collection+JSON documents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 438.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (configglue) Tj 0 0 0 rg (. Library that glues together python) Tj (\222) Tj (s OptionParser and ConfigParser.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 487.0394 cm
+1 0 0 1 40.01575 420.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (django-configglue) Tj 0 0 0 rg (. Django app for using configglue to manage settings.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 469.0394 cm
+1 0 0 1 40.01575 402.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (beehive) Tj 0 0 0 rg (. Behaviour library for games.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 451.0394 cm
+1 0 0 1 40.01575 384.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (reply) Tj 0 0 0 rg (. A Reinforcement Learning Library in Python.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 433.0394 cm
+1 0 0 1 40.01575 366.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (mrsim) Tj 0 0 0 rg (. M-TRAN Robot Simulator.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 393.0394 cm
+1 0 0 1 40.01575 326.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2407,25 +2087,25 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (research / publicat
 Q
 Q
 q
-1 0 0 1 40.01575 363.0394 cm
+1 0 0 1 40.01575 296.0394 cm
 q
-BT 1 0 0 1 0 14 Tm .631268 Tw 12 TL /F1 10 Tf 0 0 0 rg (Research: \223) Tj (On the possibilities of using previous knowledge in the form of Behaviour Trees in order to speed up Q-learning) Tj (\224) Tj (.) Tj T* 0 Tw /F3 10 Tf (2008) Tj T* ET
+BT 1 0 0 1 0 14 Tm .631268 Tw 12 TL /F1 10 Tf 0 0 0 rg (Research: \223) Tj (On the possibilities of using previous knowledge in the form of Behaviour Trees in order to speed up Q-learning) Tj (\224) Tj (.) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (2008) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 333.0394 cm
+1 0 0 1 40.01575 266.0394 cm
 q
-BT 1 0 0 1 0 14 Tm 1.645827 Tw 12 TL /F1 10 Tf 0 0 0 rg (Master Thesis: ) Tj 0 0 .501961 rg (\223) Tj (Reinforcement Learning on Self-reconfigurable Modular Robots) Tj (\224) Tj 0 0 0 rg (, Departamento de Computaci\363n, FCEyN,) Tj T* 0 Tw (UBA. ) Tj /F3 10 Tf (03/2007) Tj /F1 10 Tf (.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.645827 Tw 12 TL /F1 10 Tf 0 0 0 rg (Master Thesis: ) Tj 0 0 .501961 rg (\223) Tj (Reinforcement Learning on Self-reconfigurable Modular Robots) Tj (\224) Tj 0 0 0 rg (, Departamento de Computaci\363n, FCEyN,) Tj T* 0 Tw (UBA. ) Tj /F3 10 Tf 0 0 0 rg (03/2007) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 315.0394 cm
+1 0 0 1 40.01575 248.0394 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Survey: \223) Tj (State of the Art in the field of Self-reconfigurable Modular Robots) Tj (\224) Tj (. ) Tj /F3 10 Tf (2005) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Survey: \223) Tj (State of the Art in the field of Self-reconfigurable Modular Robots) Tj (\224) Tj (. ) Tj /F3 10 Tf 0 0 0 rg (2005) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 275.0394 cm
+1 0 0 1 40.01575 208.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2437,49 +2117,49 @@ BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (contact) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 257.0394 cm
+1 0 0 1 40.01575 190.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (email:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (ricardo@kirkner.com.ar) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 239.0394 cm
+1 0 0 1 40.01575 172.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (twitter: ) Tj /F1 10 Tf (@ricardokirkner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 221.0394 cm
+1 0 0 1 40.01575 154.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (cell: ) Tj /F1 10 Tf (\(+54\) \(911\) 3336 7592) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 203.0394 cm
+1 0 0 1 40.01575 136.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (skype: ) Tj /F1 10 Tf (ricardokirkner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 185.0394 cm
+1 0 0 1 40.01575 118.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (irc: ) Tj /F1 10 Tf (pindonga @ irc.freenode.com) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 167.0394 cm
+1 0 0 1 40.01575 100.0394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (linkedin:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (http://www.linkedin.com/in/ricardokirkner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 149.0394 cm
+1 0 0 1 40.01575 82.03937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (github:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (https://github.com/ricardokirkner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 131.0394 cm
+1 0 0 1 40.01575 64.03937 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (www:) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (http://www.kirkner.com.ar) Tj T* ET
 Q
@@ -2487,107 +2167,84 @@ Q
  
 endstream
 endobj
-% 'R50': class PDFPageLabels 
-50 0 obj
-% Document Root
-<< /Nums [ 0
- 51 0 R
- 1
- 52 0 R
- 2
- 53 0 R
- 3
- 54 0 R ] >>
-endobj
-% 'R51': class PDFPageLabel 
 51 0 obj
-% None
-<< /S /D
- /St 1 >>
+<< /Nums [ 0 52 0 R 1 53 0 R 2 54 0 R 3 55 0 R ] >>
 endobj
-% 'R52': class PDFPageLabel 
 52 0 obj
-% None
-<< /S /D
- /St 2 >>
+<< /S /D /St 1 >>
 endobj
-% 'R53': class PDFPageLabel 
 53 0 obj
-% None
-<< /S /D
- /St 3 >>
+<< /S /D /St 2 >>
 endobj
-% 'R54': class PDFPageLabel 
 54 0 obj
-% None
-<< /S /D
- /St 4 >>
+<< /S /D /St 3 >>
+endobj
+55 0 obj
+<< /S /D /St 4 >>
 endobj
 xref
-0 55
+0 56
 0000000000 65535 f
-0000000113 00000 n
-0000000246 00000 n
-0000000415 00000 n
-0000000582 00000 n
-0000000765 00000 n
-0000001012 00000 n
-0000001252 00000 n
-0000001494 00000 n
-0000001734 00000 n
-0000001976 00000 n
-0000002217 00000 n
-0000002454 00000 n
-0000002804 00000 n
+0000000075 00000 n
+0000000129 00000 n
+0000000241 00000 n
+0000000352 00000 n
+0000000465 00000 n
+0000000649 00000 n
+0000000839 00000 n
+0000001016 00000 n
+0000001195 00000 n
+0000001372 00000 n
+0000001552 00000 n
+0000001730 00000 n
+0000001996 00000 n
+0000002184 00000 n
+0000002413 00000 n
+0000002653 00000 n
+0000002862 00000 n
 0000003098 00000 n
-0000003401 00000 n
-0000003674 00000 n
-0000003929 00000 n
-0000004263 00000 n
-0000004524 00000 n
-0000004717 00000 n
-0000004966 00000 n
-0000005210 00000 n
-0000005457 00000 n
-0000005709 00000 n
-0000005968 00000 n
-0000006229 00000 n
-0000006478 00000 n
-0000006737 00000 n
-0000007041 00000 n
-0000007290 00000 n
-0000007551 00000 n
-0000007804 00000 n
-0000008034 00000 n
-0000008453 00000 n
-0000008612 00000 n
-0000008860 00000 n
-0000008985 00000 n
-0000009156 00000 n
-0000009341 00000 n
-0000009526 00000 n
-0000009708 00000 n
-0000009901 00000 n
-0000010097 00000 n
-0000010296 00000 n
-0000010448 00000 n
-0000010583 00000 n
-0000020262 00000 n
-0000032417 00000 n
-0000039686 00000 n
-0000046126 00000 n
-0000046258 00000 n
-0000046335 00000 n
-0000046412 00000 n
-0000046489 00000 n
+0000003304 00000 n
+0000003514 00000 n
+0000003699 00000 n
+0000003879 00000 n
+0000004062 00000 n
+0000004274 00000 n
+0000004462 00000 n
+0000004657 00000 n
+0000004854 00000 n
+0000005049 00000 n
+0000005244 00000 n
+0000005484 00000 n
+0000005669 00000 n
+0000005866 00000 n
+0000006055 00000 n
+0000006236 00000 n
+0000006574 00000 n
+0000006683 00000 n
+0000006894 00000 n
+0000006971 00000 n
+0000007086 00000 n
+0000007213 00000 n
+0000007340 00000 n
+0000007464 00000 n
+0000007599 00000 n
+0000007737 00000 n
+0000007878 00000 n
+0000007990 00000 n
+0000008075 00000 n
+0000019390 00000 n
+0000031570 00000 n
+0000039725 00000 n
+0000046892 00000 n
+0000046963 00000 n
+0000047000 00000 n
+0000047037 00000 n
+0000047074 00000 n
 trailer
 << /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\010\251%\335\240J\206\201\342O\017~\233\342g\331) (\010\251%\335\240J\206\201\342O\017~\233\342g\331)] 
-
- /Info 35 0 R
- /Root 34 0 R
- /Size 55 >>
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\\\001ci\377\321\321I8\254!_9\326\271U) (\\\001ci\377\321\321I8\254!_9\326\271U)]
+ /Info 36 0 R /Root 35 0 R /Size 56 >>
 startxref
-46536
+47111
 %%EOF

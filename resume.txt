@@ -1,6 +1,6 @@
 .. title: Résumé
 .. slug: resume
-.. date: 2013/04/07 11:14:46
+.. date: 2015/03/14 13:19:57
 .. tags: 
 .. link: 
 .. description: 
@@ -33,14 +33,25 @@ employment
 
 .. role:: date
 
+Online Services - Technical Leader.
+    Canonical Ltd.  :date:`2014...`
+
+* Lead effort to provide APIs to allow submitting applications to the Ubuntu App Store (https://myapps.developer.ubuntu.com).
+* Lead effort to provide automation around application submission to the Ubuntu App Store.
+* Lead effort to digitally sign applications submitted the the Ubuntu App Store.
+* Lead effort to automate deployments via Juju for the Ubuntu App Store.
+* Redesigned the application upload process to improve the user experience and reduce network round trips.
+
+
 Online Services - Accounts & Payments Technical Leader.
-    Canonical Ltd.  :date:`2013...`
+    Canonical Ltd.  :date:`2013---2014`
 
 * Lead developer and architect for Ubuntu Pay (https://pay.ubuntu.com).
 * Lead developer and architect for Ubuntu Single Sign On (https://login.ubuntu.com).
 * Release Manager for Ubuntu SSO and Ubuntu Pay.
 * Designed and helped implementing new APIs for Ubuntu SSO based on REST principles. APIs are fully compliant with RMM Level 2 and partially with RMM Level 3.
 * Designed and helped implementing UX improvements for simplifying sign in / sign up flows in Ubuntu SSO.
+* Designed and implemented feature to detect accounts vulnerable due to Adobe password database leak.
 
 
 Account Services Team Manager.
@@ -63,10 +74,6 @@ Software Engineer.
 * Lead effort to implement continuous delivery pipeline.
 * Lead effort to improve testing practices.
 
-
-.. raw:: pdf
-
-    PageBreak
 
 Technical Leader.
     Globant.  :date:`2009---2010`
@@ -172,9 +179,9 @@ Javascript (jQuery)
 
 Source control systems (Bazaar, Git, Subversion, Mercurial).
 
-Operations (DEB packaging, Puppet, Nagios, Apache, Bind, Sendmail/Postfix/Exim).
+Operations (Juju, Ansible, Puppet, Graphite, StatsD, Debian packaging, Nagios, Apache, Bind, Sendmail/Postfix/Exim).
 
-Methodologies/idioms: continuous delivery, agile, test-driven (TDD/BDD), REST,  complexity analysis (Big O). functional programming, OO, convention over configuration.
+Methodologies/idioms: continuous delivery, agile, test-driven (TDD/BDD), REST,  complexity analysis (Big O). functional programming, OOD, convention over configuration.
 
 Relational and non-relational databases (PostgreSQL, OpenLDAP).
 
@@ -199,10 +206,6 @@ Speaker: PyCon US 2012
     `Using fabric to standardize the development process <https://github.com/ricardokirkner/fabric-pycon2012>`_
 
     Keywords: automation, fabric, development, deployment
-
-.. raw:: pdf
-
-    PageBreak
 
 Speaker: PyCon US 2012
     `configglue - lightning talk <https://github.com/ricardokirkner/configglue-pycon2012>`_
@@ -235,13 +238,15 @@ Team Entry: PyWeek #6, :date:`03/2008`
 open source projects
 ---------------------------
 
+`collection-json.python <https://github.com/ricardokirkner/collection-json.python>`_. Simple python library to work with Collection+JSON documents.
+
 `configglue <https://launchpad.net/configglue>`_. Library that glues together python's OptionParser and ConfigParser.
 
 `django-configglue <https://launchpad.net/django-configglue>`_. Django app for using configglue to manage settings.
 
 `beehive <https://github.com/ricardokirkner/beehive>`_. Behaviour library for games.
 
-`reply <https://reply.googlecode.com/>`_. A Reinforcement Learning Library in Python.
+`reply <https://github.com/ricardokirkner/reply>`_. A Reinforcement Learning Library in Python.
 
 `mrsim <https://github.com/ricardokirkner/mrsim>`_. M-TRAN Robot Simulator.
 
