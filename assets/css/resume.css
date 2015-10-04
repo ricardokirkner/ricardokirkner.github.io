@@ -1,0 +1,52 @@
+
+/* Nav */
+
+    #nav .secondary a {
+        color: #ccc;
+        font-size: 80%;
+    }
+
+/* Section/Article */
+
+    section {
+        text-align: left;
+    }
+
+    section header {
+        margin-bottom: 1em;
+    }
+
+    section header li {
+        font-weight: bold;
+    }
+
+    section header li.date {
+        font-style: italic;
+        font-weight: normal;
+    }
+
+    section ul {
+        margin-bottom: 1em;
+    }
+
+    section li.header {
+        font-weight: bold;
+    }
+
+/* Box */
+
+    #about .box {
+        text-align: justify;
+    }
+
+/* Mobile */
+
+@media screen and (max-width: 736px) {
+
+    /* Nav */
+
+    #nav .secondary {
+        display: none;
+    }
+}
+
