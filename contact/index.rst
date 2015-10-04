@@ -42,6 +42,7 @@
     							<div class="row 200%">
     								<div class="12u">
     									<input type="text" name="_gotcha" style="display:none" />
+    									<input type="hidden" name="_next" value="//www.kirkner.com.ar/" />
     									<ul class="actions">
     										<li><input type="submit" value="Send Message" /></li>
     										<li><input type="reset" value="Clear Form" class="alt" /></li>
