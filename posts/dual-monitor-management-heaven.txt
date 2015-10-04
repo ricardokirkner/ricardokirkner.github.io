@@ -9,7 +9,7 @@
 For some time now I have been struggling to find a non-brain-dead way of
 managing my dual-monitor setup.
 
->I have a laptop and an external monitor, and while it's fairly easy to
+I have a laptop and an external monitor, and while it's fairly easy to
 configure X to extend the virtual desktop across both (using the
 nvidia-settings tool, as the proprietary drivers don't cope well with the
 standard monitor management tool in Ubuntu), it was always a hassle when you
