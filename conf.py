@@ -25,7 +25,7 @@ SITE_URL = "http://www.kirkner.com.ar/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "ricardo@kirkner.com.ar"
+BLOG_EMAIL = "contact@kirkner.com.ar"
 BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
