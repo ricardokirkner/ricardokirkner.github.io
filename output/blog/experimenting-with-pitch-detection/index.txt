@@ -1,0 +1,44 @@
+.. title: experimenting with pitch detection
+.. slug: experimenting-with-pitch-detection
+.. date: 2009/09/28 16:19:08
+.. tags: 
+.. link: 
+.. description: 
+
+
+Last weekend I found about the aubio project. In their own words:
+
+    aubio is a library for audio labelling. Its features include
+    segmenting a sound file before each of its attacks, performing pitch
+    detection, tapping the beat and producing midi streams from live
+    audio. [...]
+
+In particular, one interesting piece of code is aubionotes. This
+script analyzes audio data and produces a midi output stream from it
+(what I was looking for!). I tried it out, but it turns that it wasn't
+as straightforward as I would have liked, because it works on top of
+the Jack audio server. What it does is to provide an audio input and a
+midi output, and transforms any audio data received into a midi
+stream.
+
+I have been struggling against it until I realized how it was supposed
+to work (naturally, I came up with the idea on the way to work, so I
+had to wait the whole day to try it out). As it happens, I was on the
+(wrong) assumption that aubionotes would take the microphone input
+directly. It was after I fully understood how it wanted to interact
+with jack that I came to realize that I needed to use some software
+that would communicate with jack. So right after work I installed
+alsaplayer, recorded some audio, launched jack, launched aubionotes,
+connected mi midi keyboard, plugged everything together using qjackctl
+connections panel, and pressed 'play'. Oh what a joy! Midi notes were
+being played on my keyboard, trying to mimic what I had been singing.
+Even though a lot of extra notes were being played, I guess that's
+alright for a first experiment (and can be considered noise), the
+general idea of the tune I had sung could be heared being played in
+the keyboard.
+
+Considering all the processing involved in order to convert voice to
+midi notes, I call this first experiment a success.
+
+Now I have to figure out how to make jack use my microphone directly
+to capture live audio, so I don't have to pre-record it.
