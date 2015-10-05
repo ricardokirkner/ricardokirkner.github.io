@@ -268,7 +268,7 @@
 							<ul>
 								<li class="header">Spanish</li>
 								<li>Proficiency: <strong>native</strong></li>
-								<li>Born an raised in Buenos Aires, Argentina</li>
+								<li>Born and raised in Buenos Aires, Argentina</li>
 							</ul>
 						</div>
 					</section>
