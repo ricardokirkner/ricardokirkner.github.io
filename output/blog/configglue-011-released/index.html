@@ -101,29 +101,29 @@ for configuration values</p>
 </pre>
 <p>Plugins need to be registered with the manually for the time being. For doing
 so, just call <strong>App.plugins.register</strong>, like</p>
-<pre class="code python"><a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-1"></a><span class="k">class</span> <span class="nc">FooSchema</span><span class="p">(</span><span class="n">Schema</span><span class="p">):</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-2"></a>    <span class="n">bar</span> <span class="o">=</span> <span class="n">IntOption</span><span class="p">()</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-3"></a>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-4"></a><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="n">Plugin</span><span class="p">):</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-5"></a>    <span class="n">enabled</span> <span class="o">=</span> <span class="bp">True</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-6"></a>    <span class="n">schema</span> <span class="o">=</span> <span class="n">FooSchema</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-7"></a>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-8"></a><span class="n">myapp</span> <span class="o">=</span> <span class="n">App</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s">'myapp'</span><span class="p">)</span>
-<a name="rest_code_18eefa28397a4bbfbc4e1660aefe5d9e-9"></a><span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">register</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<pre class="code python"><a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-1"></a><span class="k">class</span> <span class="nc">FooSchema</span><span class="p">(</span><span class="n">Schema</span><span class="p">):</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-2"></a>    <span class="n">bar</span> <span class="o">=</span> <span class="n">IntOption</span><span class="p">()</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-3"></a>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-4"></a><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="n">Plugin</span><span class="p">):</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-5"></a>    <span class="n">enabled</span> <span class="o">=</span> <span class="bp">True</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-6"></a>    <span class="n">schema</span> <span class="o">=</span> <span class="n">FooSchema</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-7"></a>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-8"></a><span class="n">myapp</span> <span class="o">=</span> <span class="n">App</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s">'myapp'</span><span class="p">)</span>
+<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-9"></a><span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">register</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
 </pre>
 <br><p>This example will register a <strong>Foo</strong> plugin which will be enabled by default.</p>
 <p>Plugins can be enabled/disabled on demand, by calling the respective method, like</p>
-<pre class="code python"><a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-3"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-4"></a>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">disable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
-<a name="rest_code_766f92a7eeb94a9090a987cd14179dcb-7"></a><span class="p">[]</span>
+<pre class="code python"><a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-3"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-4"></a>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">disable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
+<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-7"></a><span class="p">[]</span>
 </pre>
 <br><p>The list of available plugins can be retrieved like</p>
-<pre class="code python"><a name="rest_code_4646947af711499eb4ca7ed5f4cf06a4-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">available</span>
-<a name="rest_code_4646947af711499eb4ca7ed5f4cf06a4-2"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
+<pre class="code python"><a name="rest_code_9936e78ed7f342f59e4baac1d8b939e8-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">available</span>
+<a name="rest_code_9936e78ed7f342f59e4baac1d8b939e8-2"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
 </pre>
 <br><p><strong>Closing remarks</strong></p>
 <p>Documentation is still missing for this release, but I hope that this short
