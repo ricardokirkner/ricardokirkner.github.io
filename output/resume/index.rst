@@ -395,8 +395,8 @@
 						<div class="12u 12u(mobile)">
 							<ul>
 								<li class="header">Speaker: PyCon Argentina 2015</li>
-								<li><a href="https://slides.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (slides)></li>
-								<li><a href="https://github.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (code)></li>
+								<li><a href="https://slides.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (slides)</li>
+								<li><a href="https://github.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (code)</li>
 								<li>Keywords: web development, docker, infrastructure, scaling</li>
 							</ul>
 						</div>
