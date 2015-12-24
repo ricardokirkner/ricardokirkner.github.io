@@ -394,6 +394,16 @@
 					<section class="row">
 						<div class="12u 12u(mobile)">
 							<ul>
+								<li class="header">Speaker: PyCon Argentina 2015</li>
+								<li><a href="https://slides.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (slides)></li>
+								<li><a href="https://github.com/ricardokirkner/docker-devel-pycon-ar-2015">Downsizing the DC - How to fit your production environment into a single laptop (code)></li>
+								<li>Keywords: web development, docker, infrastructure, scaling</li>
+							</ul>
+						</div>
+					</section>
+					<section class="row">
+						<div class="12u 12u(mobile)">
+							<ul>
 								<li class="header">Speaker: PyCon Argentina 2012</li>
 								<li><a href="https://github.com/ricardokirkner/destroy-pyconar2012">Destruyendo obras de arte (o automatizando la infraestructrura)</a></li>
 								<li>Keywords: continuous delivery, automation, infrastructure, fabric, puppet</li>
