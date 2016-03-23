@@ -9,23 +9,24 @@ ${parent.extra_head()}
 % if posts and (permalink == '/' or permalink == '/' + index_file):
 <link rel="prefetch" href="${posts[0].permalink()}" type="text/html">
 % endif
+<link rel="me" class="u-url" href="${base_url}">
 </%block>
 
 <%block name="content">
 <div class="wrapper style1 first">
-	<article class="container" id="top">
+	<article class="container h-card" rel="me" id="top">
 		<div class="row">
 			<div class="4u 12u(mobile)">
 				<span class="image fit">
 				%if logo_url:
-					<img src="${logo_url}" alt="${blog_title|h}" id="logo">
+					<img class="u-photo" src="${logo_url}" alt="${blog_title|h}" id="logo">
 				%endif
 				</span>
 			</div>
 			<div class="8u 12u(mobile)">
 				<header>
 					<h1 id="brand">
-						Hi. I'm <strong>${blog_author|h}</strong>.
+						Hi. I'm <strong><span class="p-name">${blog_author|h}</span></strong>.
 					</h1>
 				</header>
 				<p>And this is my <strong>blog</strong>.</p>
