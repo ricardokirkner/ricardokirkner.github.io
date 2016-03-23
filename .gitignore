@@ -3,3 +3,5 @@
 # nikola
 cache
 .doit*
+__pycache__
+output
