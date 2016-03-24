@@ -9,7 +9,6 @@ ${parent.extra_head()}
 % if posts and (permalink == '/' or permalink == '/' + index_file):
 <link rel="prefetch" href="${posts[0].permalink()}" type="text/html">
 % endif
-<link rel="me" class="u-url" href="${base_url}">
 </%block>
 
 <%block name="content">
