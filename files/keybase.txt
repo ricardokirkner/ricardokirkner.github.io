@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ricardokirkner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.kirkner.com.ar
+  * I am ricardokirkner (https://keybase.io/ricardokirkner) on keybase.
+  * I have a public key ASB62hR1hxl3EnTXDJS4rC3EBlx5-DhQWCQcp6Tih09yEQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207ada14758719771274d70c94b8ac2dc4065c79f8385058241ca7a4e2874f72110a",
+            "host": "keybase.io",
+            "kid": "01207ada14758719771274d70c94b8ac2dc4065c79f8385058241ca7a4e2874f72110a",
+            "uid": "b5f2b1ce0abc7d2ebf1bcc926c4d1c19",
+            "username": "ricardokirkner"
+        },
+        "service": {
+            "hostname": "www.kirkner.com.ar",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471431960,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471431876,
+        "hash": "71052429c6920544ddc75964f7e8c9dc24cd4b16493b310b1424f44b02c6e1d32385cd40fc4e5da4bf2ffaa30466d5a6690f98eb20d27242d798c91031512b7e",
+        "seqno": 584274
+    },
+    "prev": "ada7af5df8ea8d47d601ef22ea02f93453106da99d25d991796738f44c4aaf7c",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgetoUdYcZdxJ01wyUuKwtxAZcefg4UFgkHKek4odPchEKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2FkYTE0NzU4NzE5NzcxMjc0ZDcwYzk0YjhhYzJkYzQwNjVjNzlmODM4NTA1ODI0MWNhN2E0ZTI4NzRmNzIxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2FkYTE0NzU4NzE5NzcxMjc0ZDcwYzk0YjhhYzJkYzQwNjVjNzlmODM4NTA1ODI0MWNhN2E0ZTI4NzRmNzIxMTBhIiwidWlkIjoiYjVmMmIxY2UwYWJjN2QyZWJmMWJjYzkyNmM0ZDFjMTkiLCJ1c2VybmFtZSI6InJpY2FyZG9raXJrbmVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cua2lya25lci5jb20uYXIiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcxNDMxOTYwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzE0MzE4NzYsImhhc2giOiI3MTA1MjQyOWM2OTIwNTQ0ZGRjNzU5NjRmN2U4YzlkYzI0Y2Q0YjE2NDkzYjMxMGIxNDI0ZjQ0YjAyYzZlMWQzMjM4NWNkNDBmYzRlNWRhNGJmMmZmYWEzMDQ2NmQ1YTY2OTBmOThlYjIwZDI3MjQyZDc5OGM5MTAzMTUxMmI3ZSIsInNlcW5vIjo1ODQyNzR9LCJwcmV2IjoiYWRhN2FmNWRmOGVhOGQ0N2Q2MDFlZjIyZWEwMmY5MzQ1MzEwNmRhOTlkMjVkOTkxNzk2NzM4ZjQ0YzRhYWY3YyIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLaiwTI1fJuRw5w1du8HZ0nc4Glq1NWPukMUtqehSrUfCkGpBxnoz6UEinCamV9qZRvMIwux5E1yqdu8uvQUdAWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCARHthwo2rJi/EN4VG72m86YhKxoF84bfCpMW7AVUMiKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ricardokirkner
+
+==================================================================
