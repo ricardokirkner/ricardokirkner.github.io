@@ -101,29 +101,29 @@ for configuration values</p>
 </pre>
 <p>Plugins need to be registered with the manually for the time being. For doing
 so, just call <strong>App.plugins.register</strong>, like</p>
-<pre class="code python"><a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-1"></a><span class="k">class</span> <span class="nc">FooSchema</span><span class="p">(</span><span class="n">Schema</span><span class="p">):</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-2"></a>    <span class="n">bar</span> <span class="o">=</span> <span class="n">IntOption</span><span class="p">()</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-3"></a>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-4"></a><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="n">Plugin</span><span class="p">):</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-5"></a>    <span class="n">enabled</span> <span class="o">=</span> <span class="bp">True</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-6"></a>    <span class="n">schema</span> <span class="o">=</span> <span class="n">FooSchema</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-7"></a>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-8"></a><span class="n">myapp</span> <span class="o">=</span> <span class="n">App</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s">'myapp'</span><span class="p">)</span>
-<a name="rest_code_af0bd3f44e0c4be59797eecff1fe7c95-9"></a><span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">register</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<pre class="code python"><a name="rest_code_60abe54e775a49c79452b83e05191cfe-1"></a><span class="k">class</span> <span class="nc">FooSchema</span><span class="p">(</span><span class="n">Schema</span><span class="p">):</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-2"></a>    <span class="n">bar</span> <span class="o">=</span> <span class="n">IntOption</span><span class="p">()</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-3"></a>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-4"></a><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="n">Plugin</span><span class="p">):</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-5"></a>    <span class="n">enabled</span> <span class="o">=</span> <span class="bp">True</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-6"></a>    <span class="n">schema</span> <span class="o">=</span> <span class="n">FooSchema</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-7"></a>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-8"></a><span class="n">myapp</span> <span class="o">=</span> <span class="n">App</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">'myapp'</span><span class="p">)</span>
+<a name="rest_code_60abe54e775a49c79452b83e05191cfe-9"></a><span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">register</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
 </pre>
 <br><p>This example will register a <strong>Foo</strong> plugin which will be enabled by default.</p>
 <p>Plugins can be enabled/disabled on demand, by calling the respective method, like</p>
-<pre class="code python"><a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-3"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-4"></a>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">disable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
-<a name="rest_code_4fa4dfdcc07741e3b3c1b90565c36ad4-7"></a><span class="p">[]</span>
+<pre class="code python"><a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-3"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s1">'&gt;]</span>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-4"></a>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">disable</span><span class="p">(</span><span class="n">Foo</span><span class="p">)</span>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">enabled</span>
+<a name="rest_code_4259c96a1d9d435ba9b209ecb09faae6-7"></a><span class="p">[]</span>
 </pre>
 <br><p>The list of available plugins can be retrieved like</p>
-<pre class="code python"><a name="rest_code_9936e78ed7f342f59e4baac1d8b939e8-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">available</span>
-<a name="rest_code_9936e78ed7f342f59e4baac1d8b939e8-2"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s">'&gt;]</span>
+<pre class="code python"><a name="rest_code_524c8c09051c4614a283fa057b22ed14-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">print</span> <span class="n">myapp</span><span class="o">.</span><span class="n">plugins</span><span class="o">.</span><span class="n">available</span>
+<a name="rest_code_524c8c09051c4614a283fa057b22ed14-2"></a><span class="p">[</span><span class="o">&lt;</span><span class="k">class</span> <span class="err">'</span><span class="nc">Foo</span><span class="s1">'&gt;]</span>
 </pre>
 <br><p><strong>Closing remarks</strong></p>
 <p>Documentation is still missing for this release, but I hope that this short
@@ -150,19 +150,19 @@ using it!</p>
 				<hr>
 <h3>Find me on ...</h3>
 				<ul class="social">
-<li><a href="https://github.com/ricardokirkner" class="icon fa-github"><span class="label">Github</span></a></li>
-					<li><a href="https://linkedin.com/in/ricardokirkner" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-					<li><a href="https://twitter.com/ricardokirkner" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="mailto:ricardo@kirkner.com.ar" class="icon fa-envelope"><span class="label">Email</span></a></li>
-					<li><a href="skype:ricardokirkner" class="icon fa-skype"><span class="label">Skype</span></a></li>
+<li><a href="https://github.com/ricardokirkner" rel="me" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://linkedin.com/in/ricardokirkner" rel="me" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://twitter.com/ricardokirkner" rel="me" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="mailto:ricardo@kirkner.com.ar" rel="me" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="skype:ricardokirkner" rel="me" class="icon fa-skype"><span class="label">Skype</span></a></li>
 					<li><a rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
-					<li><a href="irc://irc.freenode.net/pindonga,isnick" class="icon fa-comment"><span class="label">IRC</span></a></li>
+					<li><a href="irc://irc.freenode.net/pindonga,isnick" rel="me" class="icon fa-comment"><span class="label">IRC</span></a></li>
 				</ul>
 <hr>
 </div>
 		</div>
 		<footer id="footer"><ul id="copyright">
-<li>Contents © 2015         <a href="mailto:ricardo@kirkner.com.ar">Ricardo Kirkner</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </li>
+<li>Contents © 2016         <a href="mailto:ricardo@kirkner.com.ar">Ricardo Kirkner</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </li>
 				<li>Design: <a href="http://html5up.net/miniport">Miniport</a>.</li>
 			</ul></footer></article>
 </div>
