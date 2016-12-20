@@ -4,7 +4,9 @@ pre.code  { background: #ffffff; }
 pre.code .c { font-style: italic } /* Comment */
 pre.code .err { border: 1px solid #FF0000 } /* Error */
 pre.code .k { font-weight: bold } /* Keyword */
+pre.code .ch { font-style: italic } /* Comment.Hashbang */
 pre.code .cm { font-style: italic } /* Comment.Multiline */
+pre.code .cpf { font-style: italic } /* Comment.PreprocFile */
 pre.code .c1 { font-style: italic } /* Comment.Single */
 pre.code .cs { font-style: italic } /* Comment.Special */
 pre.code .ge { font-style: italic } /* Generic.Emph */
