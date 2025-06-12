@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Ricardo Kirkner"  # (translatable)
 BLOG_TITLE = "Ricardo Kirkner's personal website"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://www.kirkner.com.ar/"
+SITE_URL = "https://www.kirkner.com.ar/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -130,9 +130,9 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/resume/", "Résumé"),
         ("/blog/", "Blog"),
-#        ("/archive.html", "Archive"),
-#        ("/categories/", "Tags"),
-#        ("/rss.xml", "RSS feed"),
+        #        ("/archive.html", "Archive"),
+        #        ("/categories/", "Tags"),
+        #        ("/rss.xml", "RSS feed"),
     ),
 }
 
@@ -141,7 +141,7 @@ THEME = "miniport"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = "#5670d4"
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -203,7 +203,7 @@ TIMEZONE = "UTC"
 # Date format used to display post dates. (translatable)
 # (str used by datetime.datetime.strftime)
 # DATE_FORMAT = '%Y-%m-%d %H:%M'
-DATE_FORMAT = "%B %d, %Y"
+DATE_FORMAT = "MMMM d, y"
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
@@ -249,18 +249,18 @@ DATE_FORMAT = "%B %d, %Y"
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "rest": ('.rst', '.txt'),
-    "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm'),
+    "rest": (".rst", ".txt"),
+    "markdown": (".md", ".mdown", ".markdown"),
+    "textile": (".textile",),
+    "txt2tags": (".t2t",),
+    "bbcode": (".bb",),
+    "wiki": (".wiki",),
+    "ipynb": (".ipynb",),
+    "html": (".html", ".htm"),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    "php": (".php",),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -282,7 +282,7 @@ COMPILERS = {
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
 # LOGO_URL = ''
-LOGO_URL = '/images/portrait.jpg'
+LOGO_URL = "/images/portrait.jpg"
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -350,7 +350,7 @@ POSTS_SECTIONS = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
- # (translatable)
+# (translatable)
 # TAG_PATH = "categories"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -378,7 +378,7 @@ POSTS_SECTIONS = True
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page, the tag cloud and posts.
 # Tag pages will still be generated.
-HIDDEN_TAGS = ['mathjax']
+HIDDEN_TAGS = ["mathjax"]
 
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
@@ -459,7 +459,7 @@ HIDDEN_CATEGORIES = []
 # If you do not want to display an author publicly, you can mark it as hidden.
 # The author will not be displayed on the author list page and posts.
 # Tag pages will still be generated.
-HIDDEN_AUTHORS = ['Guest']
+HIDDEN_AUTHORS = ["Guest"]
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
@@ -542,8 +542,8 @@ REDIRECTIONS = []
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-GITHUB_SOURCE_BRANCH = 'nikola'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = "nikola"
+GITHUB_DEPLOY_BRANCH = "master"
 
 # The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
@@ -639,7 +639,7 @@ GITHUB_DEPLOY_BRANCH = 'master'
 # (the thumbnail has ``.thumbnail`` added before the file extension).
 # The format is a dictionary of {source: relative destination}.
 
-IMAGE_FOLDERS = {'images': 'images'}
+IMAGE_FOLDERS = {"images": "images"}
 # IMAGE_THUMBNAIL_SIZE = 400
 
 # #############################################################################
@@ -721,7 +721,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
 # CODE_COLOR_SCHEME = 'default'
-CODE_COLOR_SCHEME = 'bw'
+CODE_COLOR_SCHEME = "bw"
 
 # If you use 'site-reveal' theme you can select several subthemes
 # THEME_REVEAL_CONFIG_SUBTHEME = 'sky'
@@ -803,8 +803,8 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
-        }
+            "license": LICENSE,
+        },
     )
 }
 
@@ -925,7 +925,7 @@ PRETTY_URLS = True
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
 # The default is ['fenced_code', 'codehilite']
-MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
+MARKDOWN_EXTENSIONS = ["fenced_code", "codehilite", "extra"]
 
 # Extra options to pass to the pandoc comand.
 # by default, it's empty, is a list of strings, for example
@@ -1078,7 +1078,7 @@ BODY_END = """
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
