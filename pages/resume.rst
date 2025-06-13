@@ -10,7 +10,15 @@
 
 .. raw:: html
     
+    <div class="wrapper">
+      <div class="resume-warning">
+        ⚠️ <strong>Heads up:</strong> This resume is outdated.  
+        Please refer to the <a href="/resume.pdf" target="_blank">PDF version</a> for the most recent version.
+      </div>
+    </div>
+
 		<div class="wrapper">
+    <div class="resume-content">
 			<article id="about">
 				<header>
 					<h2>About me</h2>
@@ -32,9 +40,11 @@
 					</div>
 				</div>
 			</article>
+      </div>
 		</div>
 
 		<div class="wrapper">
+    <div class="resume-content">
 			<article id="experience">
 				<header>
 					<h2>Experience</h2>
@@ -216,6 +226,7 @@
 					</section>
 				</div>
 			</article>
+      </div>
 		</div>
 
 		<div class="wrapper">
@@ -297,6 +308,7 @@
 		</div>
 
 		<div class="wrapper">
+    <div class="resume-content">
 			<article id="skills">
 				<header>
 					<h2>Skills</h2>
@@ -374,9 +386,11 @@
 					</div>
 				</div>
 			</article>
+      </div>
 		</div>
 
 		<div class="wrapper">
+    <div class="resume-content">
 			<article id="community">
 				<header>
 					<h2>Community / Events</h2>
@@ -472,9 +486,11 @@
 					</section>
 				</div>
 			</article>
+      </div>
 		</div>
 
 		<div class="wrapper">
+    <div class="resume-content">
 			<article id="open-source">
 				<header>
 					<h2>Open Source</h2>
@@ -495,6 +511,7 @@
 					</section>
 				</div>
 			</article>
+      </div>
 		</div>
 
 		<div class="wrapper">
