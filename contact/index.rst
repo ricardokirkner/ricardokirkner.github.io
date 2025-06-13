@@ -13,7 +13,7 @@
     <div class="wrapper style4">
     	<article id="contact" class="container 75%">
     		<header>
-    			<h2>Have me make stuff for you.</h2>
+    			<h2>Get in touch</h2>
     			<p>Want do discuss a project with me? Have a question? Just send me a message!</p>
     		</header>
     		<div>

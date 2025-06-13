@@ -1,0 +1,54 @@
+/* Define notice for outdated blog content */
+
+.archive-notice {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  border-radius: 5px;
+  font-size: 0.95em;
+}
+
+/* Define warning for outdated resume */
+
+.resume-warning {
+  background-color: #ffefef;
+  color: #a33;
+  border-left: 6px solid #e00;
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  font-weight: 500;
+}
+
+.resume-warning a {
+  color: #a33;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.resume-warning a:hover {
+  color: #800;
+}
+
+/* Define background watermark for outdated resume content */
+
+.resume-content {
+  position: relative;
+}
+
+.resume-content::before {
+  content: "OUTDATED";
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  font-size: 6rem;
+  color: rgba(200, 50, 50, 0.1);
+  transform: rotate(-30deg);
+  z-index: 0;
+  pointer-events: none;
+}
